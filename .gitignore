@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+coverage/
+playwright-report/
+test-results/
+.tmp_master_render/
+*.tsbuildinfo
+.env*
+!.env.example

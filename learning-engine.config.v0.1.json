@@ -1,0 +1,26 @@
+{
+  "mastery": {
+    "weights": {
+      "study": 10,
+      "recall": 20,
+      "quiz": 35,
+      "review": 25,
+      "application": 10
+    },
+    "understoodScore": 50,
+    "masteredScore": 75,
+    "weakAttemptThreshold": 0.6,
+    "understoodEvidenceThreshold": 0.7,
+    "minSuccessfulSpacedReviewsForMastery": 2,
+    "minReviewSeparationHours": 24
+  },
+  "recommendation": {
+    "eventBand": 500,
+    "reviewBand": 400,
+    "prerequisiteBand": 300,
+    "continuationBand": 200,
+    "sequentialBand": 100,
+    "upcomingEventWindowDays": 7,
+    "recentSessionWindowHours": 24
+  }
+}
