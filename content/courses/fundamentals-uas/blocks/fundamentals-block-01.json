@@ -1,0 +1,16 @@
+{
+  "id": "fundamentals-block-01",
+  "courseId": "fundamentals-uas",
+  "title": "Introducción, tipos de UAS y análisis y seguridad del enlace radioeléctrico",
+  "order": 1,
+  "topicIds": [
+    "fund-uas-types",
+    "fund-radio-spectrum-bands",
+    "fund-ground-control-stations",
+    "fund-radio-receivers",
+    "fund-radio-commercial-selection",
+    "fund-antennas",
+    "fund-video-telemetry-links",
+    "fund-radio-link-safety"
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "source": {
+    "id": "usc-p4202101-2023-24",
+    "source_type": "academic_guide",
+    "institution": "Universidade de Santiago de Compostela",
+    "course_id": "P4202101",
+    "course": "Fundamentos de Sistemas Aéreos no Tripulados",
+    "academic_year": "2023/2024",
+    "validation_status": "official_historical_reference",
+    "url": "https://www.galiciadrones.es/wp-content/uploads/2023/10/Guias-Docentes-USC_UVIGo-23_24.pdf",
+    "page": 1,
+    "section": "Bloque I",
+    "note": "Copia publicada por Galicia Drones del programa USC. Referencia histórica; no es la guía 2026/27."
+  },
+  "topics": [
+    {
+      "stable_id": "fund-uas-types",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-01",
+      "title": "Tipos de UAS",
+      "order": 1,
+      "source": {
+        "id": "usc-p4202101-2023-24",
+        "source_type": "academic_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "course_id": "P4202101",
+        "course": "Fundamentos de Sistemas Aéreos no Tripulados",
+        "academic_year": "2023/2024",
+        "validation_status": "official_historical_reference",
+        "url": "https://www.galiciadrones.es/wp-content/uploads/2023/10/Guias-Docentes-USC_UVIGo-23_24.pdf",
+        "page": 1,
+        "section": "Encabezado del Bloque I y contenidos generales",
+        "note": "Copia publicada por Galicia Drones del programa USC. Referencia histórica; no es la guía 2026/27."
+      },
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_authorized_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-uas-types-01",
+          "text": "Reconocer la clasificación de UAS como parte del alcance del bloque."
+        }
+      ],
+      "concept_ids": [
+        "uas-types",
+        "communication-needs"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "El programa no declara prerrequisitos específicos.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-uas-types.v0.3.mdx"
+    },
+    {
+      "stable_id": "fund-radio-spectrum-bands",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-01",
+      "title": "Espectro radioeléctrico y bandas de frecuencia",
+      "order": 2,
+      "source": {
+        "id": "usc-p4202101-2023-24",
+        "source_type": "academic_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "course_id": "P4202101",
+        "course": "Fundamentos de Sistemas Aéreos no Tripulados",
+        "academic_year": "2023/2024",
+        "validation_status": "official_historical_reference",
+        "url": "https://www.galiciadrones.es/wp-content/uploads/2023/10/Guias-Docentes-USC_UVIGo-23_24.pdf",
+        "page": 1,
+        "section": "Contenidos generales; Bloque I, apartado 1",
+        "note": "Copia publicada por Galicia Drones del programa USC. Referencia histórica; no es la guía 2026/27."
+      },
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_authorized_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-radio-spectrum-bands-01",
+          "text": "Localizar en el programa la cobertura de espectro y bandas para las comunicaciones UAS."
+        }
+      ],
+      "concept_ids": [
+        "radio-spectrum",
+        "radio-frequency-bands",
+        "radio-command-control"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "El programa no declara prerrequisitos específicos.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-radio-spectrum-bands.v0.3.mdx"
+    },
+    {
+      "stable_id": "fund-ground-control-stations",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-01",
+      "title": "Estaciones de control remoto",
+      "order": 3,
+      "source": {
+        "id": "usc-p4202101-2023-24",
+        "source_type": "academic_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "course_id": "P4202101",
+        "course": "Fundamentos de Sistemas Aéreos no Tripulados",
+        "academic_year": "2023/2024",
+        "validation_status": "official_historical_reference",
+        "url": "https://www.galiciadrones.es/wp-content/uploads/2023/10/Guias-Docentes-USC_UVIGo-23_24.pdf",
+        "page": 1,
+        "section": "Bloque I, apartado 2",
+        "note": "Copia publicada por Galicia Drones del programa USC. Referencia histórica; no es la guía 2026/27."
+      },
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_authorized_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-ground-control-stations-01",
+          "text": "Identificar las estaciones de control remoto como área de estudio."
+        }
+      ],
+      "concept_ids": [
+        "radio-ground-station"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "El programa no declara prerrequisitos específicos.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-ground-control-stations.v0.3.mdx"
+    },
+    {
+      "stable_id": "fund-radio-receivers",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-01",
+      "title": "Receptores: tipos, selección y configuración",
+      "order": 4,
+      "source": {
+        "id": "usc-p4202101-2023-24",
+        "source_type": "academic_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "course_id": "P4202101",
+        "course": "Fundamentos de Sistemas Aéreos no Tripulados",
+        "academic_year": "2023/2024",
+        "validation_status": "official_historical_reference",
+        "url": "https://www.galiciadrones.es/wp-content/uploads/2023/10/Guias-Docentes-USC_UVIGo-23_24.pdf",
+        "page": 1,
+        "section": "Bloque I, apartado 3",
+        "note": "Copia publicada por Galicia Drones del programa USC. Referencia histórica; no es la guía 2026/27."
+      },
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_authorized_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-radio-receivers-01",
+          "text": "Organizar las cuestiones de tipos, selección y configuración que deberán estudiarse con material docente."
+        }
+      ],
+      "concept_ids": [
+        "radio-tx-rx",
+        "radio-receiver"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "El programa no declara prerrequisitos específicos.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-radio-receivers.v0.3.mdx"
+    },
+    {
+      "stable_id": "fund-radio-commercial-selection",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-01",
+      "title": "Selección de estaciones y receptores comerciales",
+      "order": 5,
+      "source": {
+        "id": "usc-p4202101-2023-24",
+        "source_type": "academic_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "course_id": "P4202101",
+        "course": "Fundamentos de Sistemas Aéreos no Tripulados",
+        "academic_year": "2023/2024",
+        "validation_status": "official_historical_reference",
+        "url": "https://www.galiciadrones.es/wp-content/uploads/2023/10/Guias-Docentes-USC_UVIGo-23_24.pdf",
+        "page": 1,
+        "section": "Bloque I, apartado 4",
+        "note": "Copia publicada por Galicia Drones del programa USC. Referencia histórica; no es la guía 2026/27."
+      },
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_authorized_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-radio-commercial-selection-01",
+          "text": "Preparar una ficha de preguntas para estudiar especificaciones y criterios de selección."
+        }
+      ],
+      "concept_ids": [
+        "radio-commercial-selection",
+        "radio-ground-station",
+        "radio-receiver"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "El programa no declara prerrequisitos específicos.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-radio-commercial-selection.v0.3.mdx"
+    },
+    {
+      "stable_id": "fund-antennas",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-01",
+      "title": "Antenas: tipos, instalación y características",
+      "order": 6,
+      "source": {
+        "id": "usc-p4202101-2023-24",
+        "source_type": "academic_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "course_id": "P4202101",
+        "course": "Fundamentos de Sistemas Aéreos no Tripulados",
+        "academic_year": "2023/2024",
+        "validation_status": "official_historical_reference",
+        "url": "https://www.galiciadrones.es/wp-content/uploads/2023/10/Guias-Docentes-USC_UVIGo-23_24.pdf",
+        "page": 1,
+        "section": "Bloque I, apartado 5",
+        "note": "Copia publicada por Galicia Drones del programa USC. Referencia histórica; no es la guía 2026/27."
+      },
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_authorized_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-antennas-01",
+          "text": "Distinguir los tres ejes de cobertura curricular: tipos, instalación y características."
+        }
+      ],
+      "concept_ids": [
+        "radio-antenna"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "El programa no declara prerrequisitos específicos.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-antennas.v0.3.mdx"
+    },
+    {
+      "stable_id": "fund-video-telemetry-links",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-01",
+      "title": "Radioenlaces de vídeo y telemetría",
+      "order": 7,
+      "source": {
+        "id": "usc-p4202101-2023-24",
+        "source_type": "academic_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "course_id": "P4202101",
+        "course": "Fundamentos de Sistemas Aéreos no Tripulados",
+        "academic_year": "2023/2024",
+        "validation_status": "official_historical_reference",
+        "url": "https://www.galiciadrones.es/wp-content/uploads/2023/10/Guias-Docentes-USC_UVIGo-23_24.pdf",
+        "page": 1,
+        "section": "Bloque I, apartados 1 y 6",
+        "note": "Copia publicada por Galicia Drones del programa USC. Referencia histórica; no es la guía 2026/27."
+      },
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_authorized_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-video-telemetry-links-01",
+          "text": "Ubicar vídeo y telemetría en el alcance del enlace radioeléctrico."
+        }
+      ],
+      "concept_ids": [
+        "radio-video-link",
+        "radio-telemetry"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "El programa no declara prerrequisitos específicos.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-video-telemetry-links.v0.3.mdx"
+    },
+    {
+      "stable_id": "fund-radio-link-safety",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-01",
+      "title": "Análisis y seguridad del enlace radioeléctrico",
+      "order": 8,
+      "source": {
+        "id": "usc-p4202101-2023-24",
+        "source_type": "academic_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "course_id": "P4202101",
+        "course": "Fundamentos de Sistemas Aéreos no Tripulados",
+        "academic_year": "2023/2024",
+        "validation_status": "official_historical_reference",
+        "url": "https://www.galiciadrones.es/wp-content/uploads/2023/10/Guias-Docentes-USC_UVIGo-23_24.pdf",
+        "page": 1,
+        "section": "Encabezado del Bloque I",
+        "note": "Copia publicada por Galicia Drones del programa USC. Referencia histórica; no es la guía 2026/27."
+      },
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_authorized_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-radio-link-safety-01",
+          "text": "Delimitar las preguntas de análisis y seguridad pendientes de material académico."
+        }
+      ],
+      "concept_ids": [
+        "radio-link-quality-safety"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "El programa no declara prerrequisitos específicos.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-radio-link-safety.v0.3.mdx"
+    }
+  ]
+}
