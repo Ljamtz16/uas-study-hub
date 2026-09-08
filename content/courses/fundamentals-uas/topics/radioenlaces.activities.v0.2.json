@@ -1,0 +1,11 @@
+{
+  "id": "radioenlaces-activities-v0.2",
+  "topicId": "fund-radio-links-intro",
+  "version": "0.2",
+  "notice": "Placeholder de demostración: comprueba el flujo, no acredita conocimiento técnico. Pendiente de material académico oficial.",
+  "recall": { "id": "radio-recall-001-v0.2", "prompt": "Sin mirar, recuerda un objetivo de esta página. Reflexiona sobre qué material oficial necesitas para estudiarlo. Puedes responder por escrito o mentalmente." },
+  "questions": [
+    { "id": "radio-quiz-001-v0.2", "type": "multiple_choice", "prompt": "Demostración: ¿cuál es el tema de esta página?", "options": ["Radioenlaces en sistemas UAS", "Tema sin definir"], "correctIndex": 0 },
+    { "id": "radio-quiz-002-v0.2", "type": "true_false", "prompt": "Demostración: estas preguntas sustituyen el material académico oficial.", "options": ["Verdadero", "Falso"], "correctIndex": 1 }
+  ]
+}
