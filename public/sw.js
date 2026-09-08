@@ -1,4 +1,4 @@
-const CACHE="uas-study-hub-v0.1";
+const CACHE="uas-study-hub-v0.2";
 const ESSENTIAL=["/","/courses","/courses/fundamentals-uas","/study/fund-radio-links-intro","/settings","/manifest.webmanifest","/icon.svg"];
 self.addEventListener("install",event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(ESSENTIAL)).then(()=>self.skipWaiting()));});
 self.addEventListener("activate",event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim()));});
