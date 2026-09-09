@@ -1,0 +1,1400 @@
+{
+  "nodes": [
+    {
+      "id": "fund-uas-types",
+      "kind": "topic",
+      "title": "Tipos de UAS",
+      "topicId": "fund-uas-types"
+    },
+    {
+      "id": "fund-radio-spectrum-bands",
+      "kind": "topic",
+      "title": "Espectro radioeléctrico y bandas de frecuencia",
+      "topicId": "fund-radio-spectrum-bands"
+    },
+    {
+      "id": "fund-ground-control-stations",
+      "kind": "topic",
+      "title": "Estaciones de control remoto",
+      "topicId": "fund-ground-control-stations"
+    },
+    {
+      "id": "fund-radio-receivers",
+      "kind": "topic",
+      "title": "Receptores: tipos, selección y configuración",
+      "topicId": "fund-radio-receivers"
+    },
+    {
+      "id": "fund-radio-commercial-selection",
+      "kind": "topic",
+      "title": "Selección de estaciones y receptores comerciales",
+      "topicId": "fund-radio-commercial-selection"
+    },
+    {
+      "id": "fund-antennas",
+      "kind": "topic",
+      "title": "Antenas: tipos, instalación y características",
+      "topicId": "fund-antennas"
+    },
+    {
+      "id": "fund-video-telemetry-links",
+      "kind": "topic",
+      "title": "Radioenlaces de vídeo y telemetría",
+      "topicId": "fund-video-telemetry-links"
+    },
+    {
+      "id": "fund-radio-link-safety",
+      "kind": "topic",
+      "title": "Análisis y seguridad del enlace radioeléctrico",
+      "topicId": "fund-radio-link-safety"
+    },
+    {
+      "id": "uas-types",
+      "title": "Tipos de UAS",
+      "topicId": "fund-uas-types",
+      "status": "official-derived",
+      "kind": "concept"
+    },
+    {
+      "id": "communication-needs",
+      "title": "Necesidades de comunicación",
+      "topicId": "fund-uas-types",
+      "status": "provisional",
+      "kind": "concept"
+    },
+    {
+      "id": "radio-spectrum",
+      "title": "Espectro radioeléctrico",
+      "topicId": "fund-radio-spectrum-bands",
+      "status": "official-derived",
+      "kind": "concept"
+    },
+    {
+      "id": "radio-frequency-bands",
+      "title": "Bandas de frecuencia",
+      "topicId": "fund-radio-spectrum-bands",
+      "status": "official-derived",
+      "kind": "concept"
+    },
+    {
+      "id": "radio-command-control",
+      "title": "Mando/control",
+      "topicId": "fund-radio-spectrum-bands",
+      "status": "official-derived",
+      "kind": "concept"
+    },
+    {
+      "id": "radio-video-link",
+      "title": "Vídeo",
+      "topicId": "fund-video-telemetry-links",
+      "status": "official-derived",
+      "kind": "concept"
+    },
+    {
+      "id": "radio-telemetry",
+      "title": "Telemetría",
+      "topicId": "fund-video-telemetry-links",
+      "status": "official-derived",
+      "kind": "concept"
+    },
+    {
+      "id": "radio-tx-rx",
+      "title": "TX/RX",
+      "topicId": "fund-radio-receivers",
+      "status": "provisional",
+      "kind": "concept"
+    },
+    {
+      "id": "radio-receiver",
+      "title": "Receptores",
+      "topicId": "fund-radio-receivers",
+      "status": "official-derived",
+      "kind": "concept"
+    },
+    {
+      "id": "radio-antenna",
+      "title": "Antenas",
+      "topicId": "fund-antennas",
+      "status": "official-derived",
+      "kind": "concept"
+    },
+    {
+      "id": "radio-link-quality-safety",
+      "title": "Calidad/seguridad del enlace",
+      "topicId": "fund-radio-link-safety",
+      "status": "provisional",
+      "kind": "concept"
+    },
+    {
+      "id": "radio-ground-station",
+      "title": "Estaciones de control remoto",
+      "topicId": "fund-ground-control-stations",
+      "status": "official-derived",
+      "kind": "concept"
+    },
+    {
+      "id": "radio-commercial-selection",
+      "title": "Selección comercial",
+      "topicId": "fund-radio-commercial-selection",
+      "status": "official-derived",
+      "kind": "concept"
+    },
+    {
+      "id": "fund-autopilot-architecture",
+      "kind": "topic",
+      "title": "Arquitectura y tipos de autopiloto",
+      "topicId": "fund-autopilot-architecture",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        3
+      ]
+    },
+    {
+      "id": "fund-autopilot-configuration",
+      "kind": "topic",
+      "title": "Configuración del autopiloto y sistemas auxiliares",
+      "topicId": "fund-autopilot-configuration",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        3
+      ]
+    },
+    {
+      "id": "fund-propulsion-system",
+      "kind": "topic",
+      "title": "Sistema de propulsión",
+      "topicId": "fund-propulsion-system",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        3
+      ]
+    },
+    {
+      "id": "fund-battery-management",
+      "kind": "topic",
+      "title": "Baterías: tipos, carga, almacenamiento y vida útil",
+      "topicId": "fund-battery-management",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        3
+      ]
+    },
+    {
+      "id": "fund-endurance-payload",
+      "kind": "topic",
+      "title": "Cálculo de autonomía según carga de pago",
+      "topicId": "fund-endurance-payload",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        3
+      ]
+    },
+    {
+      "id": "fund-endurance-environment",
+      "kind": "topic",
+      "title": "Autonomía: efectos de altitud y temperatura",
+      "topicId": "fund-endurance-environment",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        3
+      ]
+    },
+    {
+      "id": "fund-rgb-cameras",
+      "kind": "topic",
+      "title": "Cámaras RGB",
+      "topicId": "fund-rgb-cameras",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        3
+      ]
+    },
+    {
+      "id": "fund-thermal-cameras",
+      "kind": "topic",
+      "title": "Cámaras térmicas y térmicas radiométricas",
+      "topicId": "fund-thermal-cameras",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        3
+      ]
+    },
+    {
+      "id": "fund-dual-cameras",
+      "kind": "topic",
+      "title": "Cámaras duales",
+      "topicId": "fund-dual-cameras",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        3
+      ]
+    },
+    {
+      "id": "fund-camera-gimbal",
+      "kind": "topic",
+      "title": "Sistemas integrados cámara-giroestabilizador",
+      "topicId": "fund-camera-gimbal",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        3
+      ]
+    },
+    {
+      "id": "fund-camera-ip-protection",
+      "kind": "topic",
+      "title": "Índices de protección IP",
+      "topicId": "fund-camera-ip-protection",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        3
+      ]
+    },
+    {
+      "id": "autopilot",
+      "title": "Autopiloto",
+      "kind": "concept",
+      "topicId": "fund-autopilot-architecture",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "inertial-systems",
+      "title": "Sistemas inerciales",
+      "kind": "concept",
+      "topicId": "fund-autopilot-architecture",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2
+      ]
+    },
+    {
+      "id": "positioning-systems",
+      "title": "Posicionamiento",
+      "kind": "concept",
+      "topicId": "fund-autopilot-architecture",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2
+      ]
+    },
+    {
+      "id": "other-sensors",
+      "title": "Otros sensores",
+      "kind": "concept",
+      "topicId": "fund-autopilot-architecture",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2
+      ]
+    },
+    {
+      "id": "flight-control",
+      "title": "Estructura de control de vuelo",
+      "kind": "concept",
+      "topicId": "fund-autopilot-configuration",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2
+      ]
+    },
+    {
+      "id": "electric-propulsion",
+      "title": "Propulsión eléctrica",
+      "kind": "concept",
+      "topicId": "fund-propulsion-system",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "electric-motors",
+      "title": "Motores eléctricos",
+      "kind": "concept",
+      "topicId": "fund-propulsion-system",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2
+      ]
+    },
+    {
+      "id": "battery",
+      "title": "Batería",
+      "kind": "concept",
+      "topicId": "fund-battery-management",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "payload",
+      "title": "Carga de pago",
+      "kind": "concept",
+      "topicId": "fund-endurance-payload",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "endurance",
+      "title": "Autonomía",
+      "kind": "concept",
+      "topicId": "fund-endurance-payload",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "altitude",
+      "title": "Altitud",
+      "kind": "concept",
+      "topicId": "fund-endurance-environment",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "temperature",
+      "title": "Temperatura",
+      "kind": "concept",
+      "topicId": "fund-endurance-environment",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "sizing",
+      "title": "Dimensionamiento",
+      "kind": "concept",
+      "topicId": "fund-endurance-payload",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2
+      ]
+    },
+    {
+      "id": "simulation",
+      "title": "Simulación",
+      "kind": "concept",
+      "topicId": "fund-endurance-payload",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2
+      ]
+    },
+    {
+      "id": "rgb-imaging",
+      "title": "Cámaras RGB",
+      "kind": "concept",
+      "topicId": "fund-rgb-cameras",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "onboard-instrumentation",
+      "title": "Instrumentación de a bordo",
+      "kind": "concept",
+      "topicId": "fund-rgb-cameras",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "thermal-imaging",
+      "title": "Cámaras térmicas",
+      "kind": "concept",
+      "topicId": "fund-thermal-cameras",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "radiometric-thermal-imaging",
+      "title": "Térmicas radiométricas",
+      "kind": "concept",
+      "topicId": "fund-thermal-cameras",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "dual-imaging",
+      "title": "Cámaras duales",
+      "kind": "concept",
+      "topicId": "fund-dual-cameras",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "gimbal",
+      "title": "Giroestabilizador",
+      "kind": "concept",
+      "topicId": "fund-camera-gimbal",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "ip-protection",
+      "title": "Protección IP",
+      "kind": "concept",
+      "topicId": "fund-camera-ip-protection",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "multirotor",
+      "title": "Multirrotor",
+      "kind": "concept",
+      "topicId": "fund-uas-types",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2
+      ]
+    },
+    {
+      "id": "fixed-wing",
+      "title": "Ala fija",
+      "kind": "concept",
+      "topicId": "fund-uas-types",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2
+      ]
+    },
+    {
+      "id": "piloting",
+      "title": "Pilotaje",
+      "kind": "concept",
+      "topicId": "fund-uas-types",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2
+      ]
+    },
+    {
+      "id": "autonomous-flight",
+      "title": "Vuelo autónomo",
+      "kind": "concept",
+      "topicId": "fund-uas-types",
+      "status": "official-derived",
+      "provenance": "directly_listed_curriculum_concept",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "curriculum-path-1",
+      "sourceId": "uas-types",
+      "targetId": "communication-needs",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Ruta pedagógica propuesta entre Tipos de UAS y Necesidades de comunicación para explorar el Bloque I; no declara dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "curriculum-path-2",
+      "sourceId": "communication-needs",
+      "targetId": "radio-spectrum",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Ruta pedagógica propuesta entre Necesidades de comunicación y Espectro radioeléctrico para explorar el Bloque I; no declara dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "curriculum-path-3",
+      "sourceId": "radio-spectrum",
+      "targetId": "radio-frequency-bands",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Ruta pedagógica propuesta entre Espectro radioeléctrico y Bandas de frecuencia para explorar el Bloque I; no declara dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "curriculum-path-4",
+      "sourceId": "radio-frequency-bands",
+      "targetId": "radio-command-control",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Ruta pedagógica propuesta entre Bandas de frecuencia y Mando/control para explorar el Bloque I; no declara dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "curriculum-path-5",
+      "sourceId": "radio-command-control",
+      "targetId": "radio-video-link",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Ruta pedagógica propuesta entre Mando/control y Vídeo para explorar el Bloque I; no declara dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "curriculum-path-6",
+      "sourceId": "radio-video-link",
+      "targetId": "radio-telemetry",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Ruta pedagógica propuesta entre Vídeo y Telemetría para explorar el Bloque I; no declara dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "curriculum-path-7",
+      "sourceId": "radio-telemetry",
+      "targetId": "radio-tx-rx",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Ruta pedagógica propuesta entre Telemetría y TX/RX para explorar el Bloque I; no declara dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "curriculum-path-8",
+      "sourceId": "radio-tx-rx",
+      "targetId": "radio-receiver",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Ruta pedagógica propuesta entre TX/RX y Receptores para explorar el Bloque I; no declara dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "curriculum-path-9",
+      "sourceId": "radio-receiver",
+      "targetId": "radio-antenna",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Ruta pedagógica propuesta entre Receptores y Antenas para explorar el Bloque I; no declara dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "curriculum-path-10",
+      "sourceId": "radio-antenna",
+      "targetId": "radio-link-quality-safety",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Ruta pedagógica propuesta entre Antenas y Calidad/seguridad del enlace para explorar el Bloque I; no declara dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "coverage-uas-types",
+      "sourceId": "uas-types",
+      "targetId": "fund-uas-types",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Agrupación pedagógica de Tipos de UAS en el Topic relacionado; cobertura organizada a partir del programa histórico."
+    },
+    {
+      "id": "coverage-communication-needs",
+      "sourceId": "communication-needs",
+      "targetId": "fund-uas-types",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Agrupación pedagógica de Necesidades de comunicación en el Topic relacionado; cobertura organizada a partir del programa histórico."
+    },
+    {
+      "id": "coverage-radio-spectrum",
+      "sourceId": "radio-spectrum",
+      "targetId": "fund-radio-spectrum-bands",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Agrupación pedagógica de Espectro radioeléctrico en el Topic relacionado; cobertura organizada a partir del programa histórico."
+    },
+    {
+      "id": "coverage-radio-frequency-bands",
+      "sourceId": "radio-frequency-bands",
+      "targetId": "fund-radio-spectrum-bands",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Agrupación pedagógica de Bandas de frecuencia en el Topic relacionado; cobertura organizada a partir del programa histórico."
+    },
+    {
+      "id": "coverage-radio-command-control",
+      "sourceId": "radio-command-control",
+      "targetId": "fund-radio-spectrum-bands",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Agrupación pedagógica de Mando/control en el Topic relacionado; cobertura organizada a partir del programa histórico."
+    },
+    {
+      "id": "coverage-radio-video-link",
+      "sourceId": "radio-video-link",
+      "targetId": "fund-video-telemetry-links",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Agrupación pedagógica de Vídeo en el Topic relacionado; cobertura organizada a partir del programa histórico."
+    },
+    {
+      "id": "coverage-radio-telemetry",
+      "sourceId": "radio-telemetry",
+      "targetId": "fund-video-telemetry-links",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Agrupación pedagógica de Telemetría en el Topic relacionado; cobertura organizada a partir del programa histórico."
+    },
+    {
+      "id": "coverage-radio-tx-rx",
+      "sourceId": "radio-tx-rx",
+      "targetId": "fund-radio-receivers",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Agrupación pedagógica de TX/RX en el Topic relacionado; cobertura organizada a partir del programa histórico."
+    },
+    {
+      "id": "coverage-radio-receiver",
+      "sourceId": "radio-receiver",
+      "targetId": "fund-radio-receivers",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Agrupación pedagógica de Receptores en el Topic relacionado; cobertura organizada a partir del programa histórico."
+    },
+    {
+      "id": "coverage-radio-antenna",
+      "sourceId": "radio-antenna",
+      "targetId": "fund-antennas",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Agrupación pedagógica de Antenas en el Topic relacionado; cobertura organizada a partir del programa histórico."
+    },
+    {
+      "id": "coverage-radio-link-quality-safety",
+      "sourceId": "radio-link-quality-safety",
+      "targetId": "fund-radio-link-safety",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Agrupación pedagógica de Calidad/seguridad del enlace en el Topic relacionado; cobertura organizada a partir del programa histórico."
+    },
+    {
+      "id": "coverage-radio-ground-station",
+      "sourceId": "radio-ground-station",
+      "targetId": "fund-ground-control-stations",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Agrupación pedagógica de Estaciones de control remoto en el Topic relacionado; cobertura organizada a partir del programa histórico."
+    },
+    {
+      "id": "coverage-radio-commercial-selection",
+      "sourceId": "radio-commercial-selection",
+      "targetId": "fund-radio-commercial-selection",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-p4202101-2023-24",
+      "rationale": "Agrupación pedagógica de Selección comercial en el Topic relacionado; cobertura organizada a partir del programa histórico."
+    },
+    {
+      "id": "coverage-autopilot",
+      "sourceId": "autopilot",
+      "targetId": "fund-autopilot-architecture",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Autopiloto en Arquitectura y tipos de autopiloto, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-inertial-systems",
+      "sourceId": "inertial-systems",
+      "targetId": "fund-autopilot-architecture",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Sistemas inerciales en Arquitectura y tipos de autopiloto, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-positioning-systems",
+      "sourceId": "positioning-systems",
+      "targetId": "fund-autopilot-architecture",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Posicionamiento en Arquitectura y tipos de autopiloto, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-other-sensors",
+      "sourceId": "other-sensors",
+      "targetId": "fund-autopilot-architecture",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Otros sensores en Arquitectura y tipos de autopiloto, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-flight-control",
+      "sourceId": "flight-control",
+      "targetId": "fund-autopilot-configuration",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Estructura de control de vuelo en Configuración del autopiloto y sistemas auxiliares, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-electric-propulsion",
+      "sourceId": "electric-propulsion",
+      "targetId": "fund-propulsion-system",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Propulsión eléctrica en Sistema de propulsión, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-electric-motors",
+      "sourceId": "electric-motors",
+      "targetId": "fund-propulsion-system",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Motores eléctricos en Sistema de propulsión, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-battery",
+      "sourceId": "battery",
+      "targetId": "fund-battery-management",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Batería en Baterías: tipos, carga, almacenamiento y vida útil, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-payload",
+      "sourceId": "payload",
+      "targetId": "fund-endurance-payload",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Carga de pago en Cálculo de autonomía según carga de pago, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-endurance",
+      "sourceId": "endurance",
+      "targetId": "fund-endurance-payload",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Autonomía en Cálculo de autonomía según carga de pago, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-altitude",
+      "sourceId": "altitude",
+      "targetId": "fund-endurance-environment",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Altitud en Autonomía: efectos de altitud y temperatura, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-temperature",
+      "sourceId": "temperature",
+      "targetId": "fund-endurance-environment",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Temperatura en Autonomía: efectos de altitud y temperatura, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-sizing",
+      "sourceId": "sizing",
+      "targetId": "fund-endurance-payload",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Dimensionamiento en Cálculo de autonomía según carga de pago, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-simulation",
+      "sourceId": "simulation",
+      "targetId": "fund-endurance-payload",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Simulación en Cálculo de autonomía según carga de pago, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-rgb-imaging",
+      "sourceId": "rgb-imaging",
+      "targetId": "fund-rgb-cameras",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Cámaras RGB en Cámaras RGB, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-onboard-instrumentation",
+      "sourceId": "onboard-instrumentation",
+      "targetId": "fund-rgb-cameras",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Instrumentación de a bordo en Cámaras RGB, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-thermal-imaging",
+      "sourceId": "thermal-imaging",
+      "targetId": "fund-thermal-cameras",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Cámaras térmicas en Cámaras térmicas y térmicas radiométricas, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-radiometric-thermal-imaging",
+      "sourceId": "radiometric-thermal-imaging",
+      "targetId": "fund-thermal-cameras",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Térmicas radiométricas en Cámaras térmicas y térmicas radiométricas, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-dual-imaging",
+      "sourceId": "dual-imaging",
+      "targetId": "fund-dual-cameras",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Cámaras duales en Cámaras duales, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-gimbal",
+      "sourceId": "gimbal",
+      "targetId": "fund-camera-gimbal",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Giroestabilizador en Sistemas integrados cámara-giroestabilizador, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-ip-protection",
+      "sourceId": "ip-protection",
+      "targetId": "fund-camera-ip-protection",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Protección IP en Índices de protección IP, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-multirotor",
+      "sourceId": "multirotor",
+      "targetId": "fund-uas-types",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Multirrotor en Tipos de UAS, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-fixed-wing",
+      "sourceId": "fixed-wing",
+      "targetId": "fund-uas-types",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Ala fija en Tipos de UAS, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-piloting",
+      "sourceId": "piloting",
+      "targetId": "fund-uas-types",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Pilotaje en Tipos de UAS, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "coverage-autonomous-flight",
+      "sourceId": "autonomous-flight",
+      "targetId": "fund-uas-types",
+      "relationType": "part_of",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Agrupación pedagógica de Vuelo autónomo en Tipos de UAS, basada en la cobertura de la guía; no es un prerrequisito oficial."
+    },
+    {
+      "id": "route-uas-types-autopilot",
+      "sourceId": "uas-types",
+      "targetId": "autopilot",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "route-autopilot-inertial-systems",
+      "sourceId": "autopilot",
+      "targetId": "inertial-systems",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "route-inertial-systems-positioning-systems",
+      "sourceId": "inertial-systems",
+      "targetId": "positioning-systems",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "route-positioning-systems-other-sensors",
+      "sourceId": "positioning-systems",
+      "targetId": "other-sensors",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "route-other-sensors-flight-control",
+      "sourceId": "other-sensors",
+      "targetId": "flight-control",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "route-electric-propulsion-electric-motors",
+      "sourceId": "electric-propulsion",
+      "targetId": "electric-motors",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "route-electric-motors-battery",
+      "sourceId": "electric-motors",
+      "targetId": "battery",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "route-battery-payload",
+      "sourceId": "battery",
+      "targetId": "payload",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "route-payload-endurance",
+      "sourceId": "payload",
+      "targetId": "endurance",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "route-endurance-altitude",
+      "sourceId": "endurance",
+      "targetId": "altitude",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "route-altitude-temperature",
+      "sourceId": "altitude",
+      "targetId": "temperature",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "route-temperature-sizing",
+      "sourceId": "temperature",
+      "targetId": "sizing",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "route-sizing-simulation",
+      "sourceId": "sizing",
+      "targetId": "simulation",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "route-onboard-instrumentation-rgb-imaging",
+      "sourceId": "onboard-instrumentation",
+      "targetId": "rgb-imaging",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "route-rgb-imaging-thermal-imaging",
+      "sourceId": "rgb-imaging",
+      "targetId": "thermal-imaging",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "route-thermal-imaging-radiometric-thermal-imaging",
+      "sourceId": "thermal-imaging",
+      "targetId": "radiometric-thermal-imaging",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "route-radiometric-thermal-imaging-dual-imaging",
+      "sourceId": "radiometric-thermal-imaging",
+      "targetId": "dual-imaging",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "route-dual-imaging-gimbal",
+      "sourceId": "dual-imaging",
+      "targetId": "gimbal",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "route-gimbal-ip-protection",
+      "sourceId": "gimbal",
+      "targetId": "ip-protection",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "route-uas-types-multirotor",
+      "sourceId": "uas-types",
+      "targetId": "multirotor",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "route-multirotor-fixed-wing",
+      "sourceId": "multirotor",
+      "targetId": "fixed-wing",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "route-fixed-wing-piloting",
+      "sourceId": "fixed-wing",
+      "targetId": "piloting",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    },
+    {
+      "id": "route-piloting-autonomous-flight",
+      "sourceId": "piloting",
+      "targetId": "autonomous-flight",
+      "relationType": "related_to",
+      "provenance": "derived_from_curriculum",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        2,
+        3
+      ],
+      "rationale": "Secuencia de exploración pedagógica de conceptos enumerados por el currículo; no afirma dependencia técnica ni prerrequisito oficial."
+    }
+  ]
+}

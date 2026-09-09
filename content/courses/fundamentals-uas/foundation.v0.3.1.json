@@ -1,0 +1,1521 @@
+{
+  "source": {
+    "id": "usc-fundamentals-2026-27",
+    "source_type": "official_teaching_guide",
+    "institution": "Universidade de Santiago de Compostela",
+    "programme": "Máster Universitario en Sistemas Aéreos non Tripulados",
+    "course": "Fundamentos de sistemas aéreos non tripulados",
+    "academic_year": "2026/2027",
+    "status": "official_current",
+    "validation_status": "official_current",
+    "source_hash": "d37464d16f7684f86ba7ee9a56917e3854e2f2cbcafaf37b3ee59dcc503e7d33",
+    "source_file": "docs/academic-sources/fundamentals-uas/2026-2027/Fundamentos de sistemas aéreos non tripulados _ Universidade de Santiago de Compostela.pdf",
+    "verified_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "url": "https://www.usc.gal/gl/estudos/masteres/enxenaria-arquitectura/master-universitario-sistemas-aereos-tripulados/20262027/fundamentos-sistemas-aereos-tripulados-18315-17481-2-100422",
+    "course_code_in_pdf": null,
+    "historical_course_code": "P4202101",
+    "course_code_note": "P4202101 vinculado desde la fuente histórica; no figura en este PDF."
+  },
+  "blocks": [
+    {
+      "id": "fundamentals-block-01",
+      "courseId": "fundamentals-uas",
+      "title": "Introducción, tipos de UAS, análisis y seguridad del enlace radioeléctrico",
+      "order": 1,
+      "duration_hours": 10,
+      "original_text": "Introdución. Tipos de UAS. Análise e seguridade do enlace radioeléctrico (10 HORAS)",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        3
+      ]
+    },
+    {
+      "id": "fundamentals-block-02",
+      "courseId": "fundamentals-uas",
+      "title": "Configuración del autopiloto y sistemas auxiliares",
+      "order": 2,
+      "duration_hours": 6,
+      "original_text": "Configuración do autopiloto e sistemas auxiliares (6 HORAS)",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        3
+      ]
+    },
+    {
+      "id": "fundamentals-block-03",
+      "courseId": "fundamentals-uas",
+      "title": "Autonomía, gestión, selección y mantenimiento del sistema de almacenamiento de energía a bordo",
+      "order": 3,
+      "duration_hours": 6,
+      "original_text": "Autonomía, xestión, selección e mantemento do sistema de almacenamento de enerxía a bordo (6 HORAS)",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        3
+      ]
+    },
+    {
+      "id": "fundamentals-block-04",
+      "courseId": "fundamentals-uas",
+      "title": "Cámaras adaptadas a UAS: características, selección e instalación",
+      "order": 4,
+      "duration_hours": 2,
+      "original_text": "Cámaras adaptadas a UAS: características, selección e instalación (2 HORA)",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "source_pages": [
+        3
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "stable_id": "fund-uas-types",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-01",
+      "title": "Tipos de UAS",
+      "order": 1,
+      "source": {
+        "id": "usc-fundamentals-2026-27",
+        "source_type": "official_teaching_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "programme": "Máster Universitario en Sistemas Aéreos non Tripulados",
+        "course": "Fundamentos de sistemas aéreos non tripulados",
+        "academic_year": "2026/2027",
+        "status": "official_current",
+        "validation_status": "official_current",
+        "source_hash": "d37464d16f7684f86ba7ee9a56917e3854e2f2cbcafaf37b3ee59dcc503e7d33",
+        "source_file": "docs/academic-sources/fundamentals-uas/2026-2027/Fundamentos de sistemas aéreos non tripulados _ Universidade de Santiago de Compostela.pdf",
+        "verified_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "url": "https://www.usc.gal/gl/estudos/masteres/enxenaria-arquitectura/master-universitario-sistemas-aereos-tripulados/20262027/fundamentos-sistemas-aereos-tripulados-18315-17481-2-100422",
+        "course_code_in_pdf": null,
+        "historical_course_code": "P4202101",
+        "course_code_note": "P4202101 vinculado desde la fuente histórica; no figura en este PDF.",
+        "page": 3,
+        "pages": [
+          3
+        ],
+        "section": "Bloque I"
+      },
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_course_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-uas-types-01",
+          "text": "Reconocer la clasificación de UAS como parte del alcance del bloque."
+        }
+      ],
+      "concept_ids": [
+        "uas-types",
+        "communication-needs",
+        "multirotor",
+        "fixed-wing",
+        "piloting",
+        "autonomous-flight"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "El programa no declara prerrequisitos específicos.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-uas-types.v0.3.mdx",
+      "historical_sources": [
+        {
+          "id": "usc-p4202101-2023-24",
+          "source_type": "academic_guide",
+          "institution": "Universidade de Santiago de Compostela",
+          "course_id": "P4202101",
+          "course": "Fundamentos de Sistemas Aéreos no Tripulados",
+          "academic_year": "2023/2024",
+          "validation_status": "official_historical_reference",
+          "url": "https://www.galiciadrones.es/wp-content/uploads/2023/10/Guias-Docentes-USC_UVIGo-23_24.pdf",
+          "page": 1,
+          "section": "Encabezado del Bloque I y contenidos generales",
+          "note": "Copia publicada por Galicia Drones del programa USC. Referencia histórica; no es la guía 2026/27."
+        }
+      ],
+      "curriculum_kind": "pedagogical_decomposition",
+      "original_curriculum_scope": "Introdución. Tipos de UAS.",
+      "source_pages": [
+        3
+      ],
+      "learning_outcome_ids": [],
+      "related_topic_ids": [
+        "fund-radio-spectrum-bands",
+        "fund-ground-control-stations",
+        "fund-radio-receivers",
+        "fund-radio-commercial-selection",
+        "fund-antennas",
+        "fund-video-telemetry-links",
+        "fund-radio-link-safety"
+      ]
+    },
+    {
+      "stable_id": "fund-radio-spectrum-bands",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-01",
+      "title": "Espectro radioeléctrico y bandas de frecuencia",
+      "order": 2,
+      "source": {
+        "id": "usc-fundamentals-2026-27",
+        "source_type": "official_teaching_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "programme": "Máster Universitario en Sistemas Aéreos non Tripulados",
+        "course": "Fundamentos de sistemas aéreos non tripulados",
+        "academic_year": "2026/2027",
+        "status": "official_current",
+        "validation_status": "official_current",
+        "source_hash": "d37464d16f7684f86ba7ee9a56917e3854e2f2cbcafaf37b3ee59dcc503e7d33",
+        "source_file": "docs/academic-sources/fundamentals-uas/2026-2027/Fundamentos de sistemas aéreos non tripulados _ Universidade de Santiago de Compostela.pdf",
+        "verified_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "url": "https://www.usc.gal/gl/estudos/masteres/enxenaria-arquitectura/master-universitario-sistemas-aereos-tripulados/20262027/fundamentos-sistemas-aereos-tripulados-18315-17481-2-100422",
+        "course_code_in_pdf": null,
+        "historical_course_code": "P4202101",
+        "course_code_note": "P4202101 vinculado desde la fuente histórica; no figura en este PDF.",
+        "page": 3,
+        "pages": [
+          3
+        ],
+        "section": "Bloque I"
+      },
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_course_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-radio-spectrum-bands-01",
+          "text": "Localizar en el programa la cobertura de espectro y bandas para las comunicaciones UAS."
+        }
+      ],
+      "concept_ids": [
+        "radio-spectrum",
+        "radio-frequency-bands",
+        "radio-command-control"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "El programa no declara prerrequisitos específicos.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-radio-spectrum-bands.v0.3.mdx",
+      "historical_sources": [
+        {
+          "id": "usc-p4202101-2023-24",
+          "source_type": "academic_guide",
+          "institution": "Universidade de Santiago de Compostela",
+          "course_id": "P4202101",
+          "course": "Fundamentos de Sistemas Aéreos no Tripulados",
+          "academic_year": "2023/2024",
+          "validation_status": "official_historical_reference",
+          "url": "https://www.galiciadrones.es/wp-content/uploads/2023/10/Guias-Docentes-USC_UVIGo-23_24.pdf",
+          "page": 1,
+          "section": "Contenidos generales; Bloque I, apartado 1",
+          "note": "Copia publicada por Galicia Drones del programa USC. Referencia histórica; no es la guía 2026/27."
+        }
+      ],
+      "curriculum_kind": "pedagogical_decomposition",
+      "original_curriculum_scope": "Espectro radioeléctrico. Bandas e frecuencias para UAS.",
+      "source_pages": [
+        2,
+        3
+      ],
+      "learning_outcome_ids": [],
+      "related_topic_ids": [
+        "fund-uas-types",
+        "fund-ground-control-stations",
+        "fund-radio-receivers",
+        "fund-radio-commercial-selection",
+        "fund-antennas",
+        "fund-video-telemetry-links",
+        "fund-radio-link-safety"
+      ]
+    },
+    {
+      "stable_id": "fund-ground-control-stations",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-01",
+      "title": "Estaciones de control remoto",
+      "order": 3,
+      "source": {
+        "id": "usc-fundamentals-2026-27",
+        "source_type": "official_teaching_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "programme": "Máster Universitario en Sistemas Aéreos non Tripulados",
+        "course": "Fundamentos de sistemas aéreos non tripulados",
+        "academic_year": "2026/2027",
+        "status": "official_current",
+        "validation_status": "official_current",
+        "source_hash": "d37464d16f7684f86ba7ee9a56917e3854e2f2cbcafaf37b3ee59dcc503e7d33",
+        "source_file": "docs/academic-sources/fundamentals-uas/2026-2027/Fundamentos de sistemas aéreos non tripulados _ Universidade de Santiago de Compostela.pdf",
+        "verified_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "url": "https://www.usc.gal/gl/estudos/masteres/enxenaria-arquitectura/master-universitario-sistemas-aereos-tripulados/20262027/fundamentos-sistemas-aereos-tripulados-18315-17481-2-100422",
+        "course_code_in_pdf": null,
+        "historical_course_code": "P4202101",
+        "course_code_note": "P4202101 vinculado desde la fuente histórica; no figura en este PDF.",
+        "page": 3,
+        "pages": [
+          3
+        ],
+        "section": "Bloque I"
+      },
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_course_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-ground-control-stations-01",
+          "text": "Identificar las estaciones de control remoto como área de estudio."
+        }
+      ],
+      "concept_ids": [
+        "radio-ground-station"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "El programa no declara prerrequisitos específicos.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-ground-control-stations.v0.3.mdx",
+      "historical_sources": [
+        {
+          "id": "usc-p4202101-2023-24",
+          "source_type": "academic_guide",
+          "institution": "Universidade de Santiago de Compostela",
+          "course_id": "P4202101",
+          "course": "Fundamentos de Sistemas Aéreos no Tripulados",
+          "academic_year": "2023/2024",
+          "validation_status": "official_historical_reference",
+          "url": "https://www.galiciadrones.es/wp-content/uploads/2023/10/Guias-Docentes-USC_UVIGo-23_24.pdf",
+          "page": 1,
+          "section": "Bloque I, apartado 2",
+          "note": "Copia publicada por Galicia Drones del programa USC. Referencia histórica; no es la guía 2026/27."
+        }
+      ],
+      "curriculum_kind": "pedagogical_decomposition",
+      "original_curriculum_scope": "Estacións de control remoto",
+      "source_pages": [
+        3
+      ],
+      "learning_outcome_ids": [],
+      "related_topic_ids": [
+        "fund-uas-types",
+        "fund-radio-spectrum-bands",
+        "fund-radio-receivers",
+        "fund-radio-commercial-selection",
+        "fund-antennas",
+        "fund-video-telemetry-links",
+        "fund-radio-link-safety"
+      ]
+    },
+    {
+      "stable_id": "fund-radio-receivers",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-01",
+      "title": "Receptores: tipos, selección y configuración",
+      "order": 4,
+      "source": {
+        "id": "usc-fundamentals-2026-27",
+        "source_type": "official_teaching_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "programme": "Máster Universitario en Sistemas Aéreos non Tripulados",
+        "course": "Fundamentos de sistemas aéreos non tripulados",
+        "academic_year": "2026/2027",
+        "status": "official_current",
+        "validation_status": "official_current",
+        "source_hash": "d37464d16f7684f86ba7ee9a56917e3854e2f2cbcafaf37b3ee59dcc503e7d33",
+        "source_file": "docs/academic-sources/fundamentals-uas/2026-2027/Fundamentos de sistemas aéreos non tripulados _ Universidade de Santiago de Compostela.pdf",
+        "verified_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "url": "https://www.usc.gal/gl/estudos/masteres/enxenaria-arquitectura/master-universitario-sistemas-aereos-tripulados/20262027/fundamentos-sistemas-aereos-tripulados-18315-17481-2-100422",
+        "course_code_in_pdf": null,
+        "historical_course_code": "P4202101",
+        "course_code_note": "P4202101 vinculado desde la fuente histórica; no figura en este PDF.",
+        "page": 3,
+        "pages": [
+          3
+        ],
+        "section": "Bloque I"
+      },
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_course_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-radio-receivers-01",
+          "text": "Organizar las cuestiones de tipos, selección y configuración que deberán estudiarse con material docente."
+        }
+      ],
+      "concept_ids": [
+        "radio-tx-rx",
+        "radio-receiver"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "El programa no declara prerrequisitos específicos.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-radio-receivers.v0.3.mdx",
+      "historical_sources": [
+        {
+          "id": "usc-p4202101-2023-24",
+          "source_type": "academic_guide",
+          "institution": "Universidade de Santiago de Compostela",
+          "course_id": "P4202101",
+          "course": "Fundamentos de Sistemas Aéreos no Tripulados",
+          "academic_year": "2023/2024",
+          "validation_status": "official_historical_reference",
+          "url": "https://www.galiciadrones.es/wp-content/uploads/2023/10/Guias-Docentes-USC_UVIGo-23_24.pdf",
+          "page": 1,
+          "section": "Bloque I, apartado 3",
+          "note": "Copia publicada por Galicia Drones del programa USC. Referencia histórica; no es la guía 2026/27."
+        }
+      ],
+      "curriculum_kind": "pedagogical_decomposition",
+      "original_curriculum_scope": "Tipos, selección e configuración de receptores",
+      "source_pages": [
+        3
+      ],
+      "learning_outcome_ids": [],
+      "related_topic_ids": [
+        "fund-uas-types",
+        "fund-radio-spectrum-bands",
+        "fund-ground-control-stations",
+        "fund-radio-commercial-selection",
+        "fund-antennas",
+        "fund-video-telemetry-links",
+        "fund-radio-link-safety"
+      ]
+    },
+    {
+      "stable_id": "fund-radio-commercial-selection",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-01",
+      "title": "Selección de estaciones y receptores comerciales",
+      "order": 5,
+      "source": {
+        "id": "usc-fundamentals-2026-27",
+        "source_type": "official_teaching_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "programme": "Máster Universitario en Sistemas Aéreos non Tripulados",
+        "course": "Fundamentos de sistemas aéreos non tripulados",
+        "academic_year": "2026/2027",
+        "status": "official_current",
+        "validation_status": "official_current",
+        "source_hash": "d37464d16f7684f86ba7ee9a56917e3854e2f2cbcafaf37b3ee59dcc503e7d33",
+        "source_file": "docs/academic-sources/fundamentals-uas/2026-2027/Fundamentos de sistemas aéreos non tripulados _ Universidade de Santiago de Compostela.pdf",
+        "verified_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "url": "https://www.usc.gal/gl/estudos/masteres/enxenaria-arquitectura/master-universitario-sistemas-aereos-tripulados/20262027/fundamentos-sistemas-aereos-tripulados-18315-17481-2-100422",
+        "course_code_in_pdf": null,
+        "historical_course_code": "P4202101",
+        "course_code_note": "P4202101 vinculado desde la fuente histórica; no figura en este PDF.",
+        "page": 3,
+        "pages": [
+          3
+        ],
+        "section": "Bloque I"
+      },
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_course_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-radio-commercial-selection-01",
+          "text": "Preparar una ficha de preguntas para estudiar especificaciones y criterios de selección."
+        }
+      ],
+      "concept_ids": [
+        "radio-commercial-selection",
+        "radio-ground-station",
+        "radio-receiver"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "El programa no declara prerrequisitos específicos.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-radio-commercial-selection.v0.3.mdx",
+      "historical_sources": [
+        {
+          "id": "usc-p4202101-2023-24",
+          "source_type": "academic_guide",
+          "institution": "Universidade de Santiago de Compostela",
+          "course_id": "P4202101",
+          "course": "Fundamentos de Sistemas Aéreos no Tripulados",
+          "academic_year": "2023/2024",
+          "validation_status": "official_historical_reference",
+          "url": "https://www.galiciadrones.es/wp-content/uploads/2023/10/Guias-Docentes-USC_UVIGo-23_24.pdf",
+          "page": 1,
+          "section": "Bloque I, apartado 4",
+          "note": "Copia publicada por Galicia Drones del programa USC. Referencia histórica; no es la guía 2026/27."
+        }
+      ],
+      "curriculum_kind": "pedagogical_decomposition",
+      "original_curriculum_scope": "Estacións de control remoto e receptores comerciais, especificacións técnicas e criterios de selección",
+      "source_pages": [
+        3
+      ],
+      "learning_outcome_ids": [],
+      "related_topic_ids": [
+        "fund-uas-types",
+        "fund-radio-spectrum-bands",
+        "fund-ground-control-stations",
+        "fund-radio-receivers",
+        "fund-antennas",
+        "fund-video-telemetry-links",
+        "fund-radio-link-safety"
+      ]
+    },
+    {
+      "stable_id": "fund-antennas",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-01",
+      "title": "Antenas: tipos, instalación y características",
+      "order": 6,
+      "source": {
+        "id": "usc-fundamentals-2026-27",
+        "source_type": "official_teaching_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "programme": "Máster Universitario en Sistemas Aéreos non Tripulados",
+        "course": "Fundamentos de sistemas aéreos non tripulados",
+        "academic_year": "2026/2027",
+        "status": "official_current",
+        "validation_status": "official_current",
+        "source_hash": "d37464d16f7684f86ba7ee9a56917e3854e2f2cbcafaf37b3ee59dcc503e7d33",
+        "source_file": "docs/academic-sources/fundamentals-uas/2026-2027/Fundamentos de sistemas aéreos non tripulados _ Universidade de Santiago de Compostela.pdf",
+        "verified_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "url": "https://www.usc.gal/gl/estudos/masteres/enxenaria-arquitectura/master-universitario-sistemas-aereos-tripulados/20262027/fundamentos-sistemas-aereos-tripulados-18315-17481-2-100422",
+        "course_code_in_pdf": null,
+        "historical_course_code": "P4202101",
+        "course_code_note": "P4202101 vinculado desde la fuente histórica; no figura en este PDF.",
+        "page": 3,
+        "pages": [
+          3
+        ],
+        "section": "Bloque I"
+      },
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_course_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-antennas-01",
+          "text": "Distinguir los tres ejes de cobertura curricular: tipos, instalación y características."
+        }
+      ],
+      "concept_ids": [
+        "radio-antenna"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "El programa no declara prerrequisitos específicos.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-antennas.v0.3.mdx",
+      "historical_sources": [
+        {
+          "id": "usc-p4202101-2023-24",
+          "source_type": "academic_guide",
+          "institution": "Universidade de Santiago de Compostela",
+          "course_id": "P4202101",
+          "course": "Fundamentos de Sistemas Aéreos no Tripulados",
+          "academic_year": "2023/2024",
+          "validation_status": "official_historical_reference",
+          "url": "https://www.galiciadrones.es/wp-content/uploads/2023/10/Guias-Docentes-USC_UVIGo-23_24.pdf",
+          "page": 1,
+          "section": "Bloque I, apartado 5",
+          "note": "Copia publicada por Galicia Drones del programa USC. Referencia histórica; no es la guía 2026/27."
+        }
+      ],
+      "curriculum_kind": "pedagogical_decomposition",
+      "original_curriculum_scope": "Tipo, instalación e características das antenas)",
+      "source_pages": [
+        3
+      ],
+      "learning_outcome_ids": [],
+      "related_topic_ids": [
+        "fund-uas-types",
+        "fund-radio-spectrum-bands",
+        "fund-ground-control-stations",
+        "fund-radio-receivers",
+        "fund-radio-commercial-selection",
+        "fund-video-telemetry-links",
+        "fund-radio-link-safety"
+      ]
+    },
+    {
+      "stable_id": "fund-video-telemetry-links",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-01",
+      "title": "Radioenlaces de vídeo y telemetría",
+      "order": 7,
+      "source": {
+        "id": "usc-fundamentals-2026-27",
+        "source_type": "official_teaching_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "programme": "Máster Universitario en Sistemas Aéreos non Tripulados",
+        "course": "Fundamentos de sistemas aéreos non tripulados",
+        "academic_year": "2026/2027",
+        "status": "official_current",
+        "validation_status": "official_current",
+        "source_hash": "d37464d16f7684f86ba7ee9a56917e3854e2f2cbcafaf37b3ee59dcc503e7d33",
+        "source_file": "docs/academic-sources/fundamentals-uas/2026-2027/Fundamentos de sistemas aéreos non tripulados _ Universidade de Santiago de Compostela.pdf",
+        "verified_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "url": "https://www.usc.gal/gl/estudos/masteres/enxenaria-arquitectura/master-universitario-sistemas-aereos-tripulados/20262027/fundamentos-sistemas-aereos-tripulados-18315-17481-2-100422",
+        "course_code_in_pdf": null,
+        "historical_course_code": "P4202101",
+        "course_code_note": "P4202101 vinculado desde la fuente histórica; no figura en este PDF.",
+        "page": 3,
+        "pages": [
+          3
+        ],
+        "section": "Bloque I"
+      },
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_course_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-video-telemetry-links-01",
+          "text": "Ubicar vídeo y telemetría en el alcance del enlace radioeléctrico."
+        }
+      ],
+      "concept_ids": [
+        "radio-video-link",
+        "radio-telemetry"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "El programa no declara prerrequisitos específicos.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-video-telemetry-links.v0.3.mdx",
+      "historical_sources": [
+        {
+          "id": "usc-p4202101-2023-24",
+          "source_type": "academic_guide",
+          "institution": "Universidade de Santiago de Compostela",
+          "course_id": "P4202101",
+          "course": "Fundamentos de Sistemas Aéreos no Tripulados",
+          "academic_year": "2023/2024",
+          "validation_status": "official_historical_reference",
+          "url": "https://www.galiciadrones.es/wp-content/uploads/2023/10/Guias-Docentes-USC_UVIGo-23_24.pdf",
+          "page": 1,
+          "section": "Bloque I, apartados 1 y 6",
+          "note": "Copia publicada por Galicia Drones del programa USC. Referencia histórica; no es la guía 2026/27."
+        }
+      ],
+      "curriculum_kind": "pedagogical_decomposition",
+      "original_curriculum_scope": "Radioenlaces de vídeo e telemetría",
+      "source_pages": [
+        3
+      ],
+      "learning_outcome_ids": [],
+      "related_topic_ids": [
+        "fund-uas-types",
+        "fund-radio-spectrum-bands",
+        "fund-ground-control-stations",
+        "fund-radio-receivers",
+        "fund-radio-commercial-selection",
+        "fund-antennas",
+        "fund-radio-link-safety"
+      ]
+    },
+    {
+      "stable_id": "fund-radio-link-safety",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-01",
+      "title": "Análisis y seguridad del enlace radioeléctrico",
+      "order": 8,
+      "source": {
+        "id": "usc-fundamentals-2026-27",
+        "source_type": "official_teaching_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "programme": "Máster Universitario en Sistemas Aéreos non Tripulados",
+        "course": "Fundamentos de sistemas aéreos non tripulados",
+        "academic_year": "2026/2027",
+        "status": "official_current",
+        "validation_status": "official_current",
+        "source_hash": "d37464d16f7684f86ba7ee9a56917e3854e2f2cbcafaf37b3ee59dcc503e7d33",
+        "source_file": "docs/academic-sources/fundamentals-uas/2026-2027/Fundamentos de sistemas aéreos non tripulados _ Universidade de Santiago de Compostela.pdf",
+        "verified_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "url": "https://www.usc.gal/gl/estudos/masteres/enxenaria-arquitectura/master-universitario-sistemas-aereos-tripulados/20262027/fundamentos-sistemas-aereos-tripulados-18315-17481-2-100422",
+        "course_code_in_pdf": null,
+        "historical_course_code": "P4202101",
+        "course_code_note": "P4202101 vinculado desde la fuente histórica; no figura en este PDF.",
+        "page": 3,
+        "pages": [
+          3
+        ],
+        "section": "Bloque I"
+      },
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_course_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-radio-link-safety-01",
+          "text": "Delimitar las preguntas de análisis y seguridad pendientes de material académico."
+        }
+      ],
+      "concept_ids": [
+        "radio-link-quality-safety"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "El programa no declara prerrequisitos específicos.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-radio-link-safety.v0.3.mdx",
+      "historical_sources": [
+        {
+          "id": "usc-p4202101-2023-24",
+          "source_type": "academic_guide",
+          "institution": "Universidade de Santiago de Compostela",
+          "course_id": "P4202101",
+          "course": "Fundamentos de Sistemas Aéreos no Tripulados",
+          "academic_year": "2023/2024",
+          "validation_status": "official_historical_reference",
+          "url": "https://www.galiciadrones.es/wp-content/uploads/2023/10/Guias-Docentes-USC_UVIGo-23_24.pdf",
+          "page": 1,
+          "section": "Encabezado del Bloque I",
+          "note": "Copia publicada por Galicia Drones del programa USC. Referencia histórica; no es la guía 2026/27."
+        }
+      ],
+      "curriculum_kind": "pedagogical_decomposition",
+      "original_curriculum_scope": "Análise e seguridade do enlace radioeléctrico",
+      "source_pages": [
+        3
+      ],
+      "learning_outcome_ids": [],
+      "related_topic_ids": [
+        "fund-uas-types",
+        "fund-radio-spectrum-bands",
+        "fund-ground-control-stations",
+        "fund-radio-receivers",
+        "fund-radio-commercial-selection",
+        "fund-antennas",
+        "fund-video-telemetry-links"
+      ]
+    },
+    {
+      "stable_id": "fund-autopilot-architecture",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-02",
+      "title": "Arquitectura y tipos de autopiloto",
+      "order": 9,
+      "source": {
+        "id": "usc-fundamentals-2026-27",
+        "source_type": "official_teaching_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "programme": "Máster Universitario en Sistemas Aéreos non Tripulados",
+        "course": "Fundamentos de sistemas aéreos non tripulados",
+        "academic_year": "2026/2027",
+        "status": "official_current",
+        "validation_status": "official_current",
+        "source_hash": "d37464d16f7684f86ba7ee9a56917e3854e2f2cbcafaf37b3ee59dcc503e7d33",
+        "source_file": "docs/academic-sources/fundamentals-uas/2026-2027/Fundamentos de sistemas aéreos non tripulados _ Universidade de Santiago de Compostela.pdf",
+        "verified_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "url": "https://www.usc.gal/gl/estudos/masteres/enxenaria-arquitectura/master-universitario-sistemas-aereos-tripulados/20262027/fundamentos-sistemas-aereos-tripulados-18315-17481-2-100422",
+        "course_code_in_pdf": null,
+        "historical_course_code": "P4202101",
+        "course_code_note": "P4202101 vinculado desde la fuente histórica; no figura en este PDF.",
+        "page": 3,
+        "pages": [
+          3
+        ],
+        "section": "Bloque II"
+      },
+      "historical_sources": [],
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_course_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-autopilot-architecture-01",
+          "text": "Identificar el alcance curricular de «Arquitectura y tipos de autopiloto» y registrar las dudas que requieren material del Campus Virtual."
+        }
+      ],
+      "concept_ids": [
+        "autopilot",
+        "inertial-systems",
+        "positioning-systems",
+        "other-sensors"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "La guía no declara prerrequisitos específicos por Topic.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-autopilot-architecture.v0.3.1.mdx",
+      "curriculum_kind": "official_listed_item",
+      "original_curriculum_scope": "Arquitectura e tipos de autopiloto",
+      "source_pages": [
+        3
+      ],
+      "learning_outcome_ids": [],
+      "related_topic_ids": [
+        "fund-autopilot-configuration"
+      ]
+    },
+    {
+      "stable_id": "fund-autopilot-configuration",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-02",
+      "title": "Configuración del autopiloto y sistemas auxiliares",
+      "order": 10,
+      "source": {
+        "id": "usc-fundamentals-2026-27",
+        "source_type": "official_teaching_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "programme": "Máster Universitario en Sistemas Aéreos non Tripulados",
+        "course": "Fundamentos de sistemas aéreos non tripulados",
+        "academic_year": "2026/2027",
+        "status": "official_current",
+        "validation_status": "official_current",
+        "source_hash": "d37464d16f7684f86ba7ee9a56917e3854e2f2cbcafaf37b3ee59dcc503e7d33",
+        "source_file": "docs/academic-sources/fundamentals-uas/2026-2027/Fundamentos de sistemas aéreos non tripulados _ Universidade de Santiago de Compostela.pdf",
+        "verified_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "url": "https://www.usc.gal/gl/estudos/masteres/enxenaria-arquitectura/master-universitario-sistemas-aereos-tripulados/20262027/fundamentos-sistemas-aereos-tripulados-18315-17481-2-100422",
+        "course_code_in_pdf": null,
+        "historical_course_code": "P4202101",
+        "course_code_note": "P4202101 vinculado desde la fuente histórica; no figura en este PDF.",
+        "page": 3,
+        "pages": [
+          3
+        ],
+        "section": "Bloque II"
+      },
+      "historical_sources": [],
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_course_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-autopilot-configuration-01",
+          "text": "Identificar el alcance curricular de «Configuración del autopiloto y sistemas auxiliares» y registrar las dudas que requieren material del Campus Virtual."
+        }
+      ],
+      "concept_ids": [
+        "flight-control"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "La guía no declara prerrequisitos específicos por Topic.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-autopilot-configuration.v0.3.1.mdx",
+      "curriculum_kind": "official_listed_item",
+      "original_curriculum_scope": "Configuración do autopiloto e sistemas auxiliares",
+      "source_pages": [
+        3
+      ],
+      "learning_outcome_ids": [],
+      "related_topic_ids": [
+        "fund-autopilot-architecture"
+      ]
+    },
+    {
+      "stable_id": "fund-propulsion-system",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-03",
+      "title": "Sistema de propulsión",
+      "order": 11,
+      "source": {
+        "id": "usc-fundamentals-2026-27",
+        "source_type": "official_teaching_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "programme": "Máster Universitario en Sistemas Aéreos non Tripulados",
+        "course": "Fundamentos de sistemas aéreos non tripulados",
+        "academic_year": "2026/2027",
+        "status": "official_current",
+        "validation_status": "official_current",
+        "source_hash": "d37464d16f7684f86ba7ee9a56917e3854e2f2cbcafaf37b3ee59dcc503e7d33",
+        "source_file": "docs/academic-sources/fundamentals-uas/2026-2027/Fundamentos de sistemas aéreos non tripulados _ Universidade de Santiago de Compostela.pdf",
+        "verified_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "url": "https://www.usc.gal/gl/estudos/masteres/enxenaria-arquitectura/master-universitario-sistemas-aereos-tripulados/20262027/fundamentos-sistemas-aereos-tripulados-18315-17481-2-100422",
+        "course_code_in_pdf": null,
+        "historical_course_code": "P4202101",
+        "course_code_note": "P4202101 vinculado desde la fuente histórica; no figura en este PDF.",
+        "page": 3,
+        "pages": [
+          3
+        ],
+        "section": "Bloque III"
+      },
+      "historical_sources": [],
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_course_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-propulsion-system-01",
+          "text": "Identificar el alcance curricular de «Sistema de propulsión» y registrar las dudas que requieren material del Campus Virtual."
+        }
+      ],
+      "concept_ids": [
+        "electric-propulsion",
+        "electric-motors"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "La guía no declara prerrequisitos específicos por Topic.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-propulsion-system.v0.3.1.mdx",
+      "curriculum_kind": "official_listed_item",
+      "original_curriculum_scope": "Sistema de propulsión",
+      "source_pages": [
+        3
+      ],
+      "learning_outcome_ids": [],
+      "related_topic_ids": [
+        "fund-battery-management",
+        "fund-endurance-payload",
+        "fund-endurance-environment"
+      ]
+    },
+    {
+      "stable_id": "fund-battery-management",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-03",
+      "title": "Baterías: tipos, carga, almacenamiento y vida útil",
+      "order": 12,
+      "source": {
+        "id": "usc-fundamentals-2026-27",
+        "source_type": "official_teaching_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "programme": "Máster Universitario en Sistemas Aéreos non Tripulados",
+        "course": "Fundamentos de sistemas aéreos non tripulados",
+        "academic_year": "2026/2027",
+        "status": "official_current",
+        "validation_status": "official_current",
+        "source_hash": "d37464d16f7684f86ba7ee9a56917e3854e2f2cbcafaf37b3ee59dcc503e7d33",
+        "source_file": "docs/academic-sources/fundamentals-uas/2026-2027/Fundamentos de sistemas aéreos non tripulados _ Universidade de Santiago de Compostela.pdf",
+        "verified_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "url": "https://www.usc.gal/gl/estudos/masteres/enxenaria-arquitectura/master-universitario-sistemas-aereos-tripulados/20262027/fundamentos-sistemas-aereos-tripulados-18315-17481-2-100422",
+        "course_code_in_pdf": null,
+        "historical_course_code": "P4202101",
+        "course_code_note": "P4202101 vinculado desde la fuente histórica; no figura en este PDF.",
+        "page": 3,
+        "pages": [
+          3
+        ],
+        "section": "Bloque III"
+      },
+      "historical_sources": [],
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_course_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-battery-management-01",
+          "text": "Identificar el alcance curricular de «Baterías: tipos, carga, almacenamiento y vida útil» y registrar las dudas que requieren material del Campus Virtual."
+        }
+      ],
+      "concept_ids": [
+        "battery"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "La guía no declara prerrequisitos específicos por Topic.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-battery-management.v0.3.1.mdx",
+      "curriculum_kind": "official_listed_item",
+      "original_curriculum_scope": "Tipos de batería, ciclo de carga, almacenamento e vida útil",
+      "source_pages": [
+        3
+      ],
+      "learning_outcome_ids": [],
+      "related_topic_ids": [
+        "fund-propulsion-system",
+        "fund-endurance-payload",
+        "fund-endurance-environment"
+      ]
+    },
+    {
+      "stable_id": "fund-endurance-payload",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-03",
+      "title": "Cálculo de autonomía según carga de pago",
+      "order": 13,
+      "source": {
+        "id": "usc-fundamentals-2026-27",
+        "source_type": "official_teaching_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "programme": "Máster Universitario en Sistemas Aéreos non Tripulados",
+        "course": "Fundamentos de sistemas aéreos non tripulados",
+        "academic_year": "2026/2027",
+        "status": "official_current",
+        "validation_status": "official_current",
+        "source_hash": "d37464d16f7684f86ba7ee9a56917e3854e2f2cbcafaf37b3ee59dcc503e7d33",
+        "source_file": "docs/academic-sources/fundamentals-uas/2026-2027/Fundamentos de sistemas aéreos non tripulados _ Universidade de Santiago de Compostela.pdf",
+        "verified_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "url": "https://www.usc.gal/gl/estudos/masteres/enxenaria-arquitectura/master-universitario-sistemas-aereos-tripulados/20262027/fundamentos-sistemas-aereos-tripulados-18315-17481-2-100422",
+        "course_code_in_pdf": null,
+        "historical_course_code": "P4202101",
+        "course_code_note": "P4202101 vinculado desde la fuente histórica; no figura en este PDF.",
+        "page": 3,
+        "pages": [
+          3
+        ],
+        "section": "Bloque III"
+      },
+      "historical_sources": [],
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_course_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-endurance-payload-01",
+          "text": "Identificar el alcance curricular de «Cálculo de autonomía según carga de pago» y registrar las dudas que requieren material del Campus Virtual."
+        }
+      ],
+      "concept_ids": [
+        "payload",
+        "endurance",
+        "sizing",
+        "simulation"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "La guía no declara prerrequisitos específicos por Topic.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-endurance-payload.v0.3.1.mdx",
+      "curriculum_kind": "official_listed_item",
+      "original_curriculum_scope": "Cálculo da autonomía dun RPA en función da súa carga de pago: casos prácticos",
+      "source_pages": [
+        3
+      ],
+      "learning_outcome_ids": [],
+      "related_topic_ids": [
+        "fund-propulsion-system",
+        "fund-battery-management",
+        "fund-endurance-environment"
+      ]
+    },
+    {
+      "stable_id": "fund-endurance-environment",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-03",
+      "title": "Autonomía: efectos de altitud y temperatura",
+      "order": 14,
+      "source": {
+        "id": "usc-fundamentals-2026-27",
+        "source_type": "official_teaching_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "programme": "Máster Universitario en Sistemas Aéreos non Tripulados",
+        "course": "Fundamentos de sistemas aéreos non tripulados",
+        "academic_year": "2026/2027",
+        "status": "official_current",
+        "validation_status": "official_current",
+        "source_hash": "d37464d16f7684f86ba7ee9a56917e3854e2f2cbcafaf37b3ee59dcc503e7d33",
+        "source_file": "docs/academic-sources/fundamentals-uas/2026-2027/Fundamentos de sistemas aéreos non tripulados _ Universidade de Santiago de Compostela.pdf",
+        "verified_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "url": "https://www.usc.gal/gl/estudos/masteres/enxenaria-arquitectura/master-universitario-sistemas-aereos-tripulados/20262027/fundamentos-sistemas-aereos-tripulados-18315-17481-2-100422",
+        "course_code_in_pdf": null,
+        "historical_course_code": "P4202101",
+        "course_code_note": "P4202101 vinculado desde la fuente histórica; no figura en este PDF.",
+        "page": 3,
+        "pages": [
+          3
+        ],
+        "section": "Bloque III"
+      },
+      "historical_sources": [],
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_course_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-endurance-environment-01",
+          "text": "Identificar el alcance curricular de «Autonomía: efectos de altitud y temperatura» y registrar las dudas que requieren material del Campus Virtual."
+        }
+      ],
+      "concept_ids": [
+        "altitude",
+        "temperature"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "La guía no declara prerrequisitos específicos por Topic.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-endurance-environment.v0.3.1.mdx",
+      "curriculum_kind": "official_listed_item",
+      "original_curriculum_scope": "Corrección da autonomía en función de altitude e temperatura ambiente",
+      "source_pages": [
+        3
+      ],
+      "learning_outcome_ids": [],
+      "related_topic_ids": [
+        "fund-propulsion-system",
+        "fund-battery-management",
+        "fund-endurance-payload"
+      ]
+    },
+    {
+      "stable_id": "fund-rgb-cameras",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-04",
+      "title": "Cámaras RGB",
+      "order": 15,
+      "source": {
+        "id": "usc-fundamentals-2026-27",
+        "source_type": "official_teaching_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "programme": "Máster Universitario en Sistemas Aéreos non Tripulados",
+        "course": "Fundamentos de sistemas aéreos non tripulados",
+        "academic_year": "2026/2027",
+        "status": "official_current",
+        "validation_status": "official_current",
+        "source_hash": "d37464d16f7684f86ba7ee9a56917e3854e2f2cbcafaf37b3ee59dcc503e7d33",
+        "source_file": "docs/academic-sources/fundamentals-uas/2026-2027/Fundamentos de sistemas aéreos non tripulados _ Universidade de Santiago de Compostela.pdf",
+        "verified_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "url": "https://www.usc.gal/gl/estudos/masteres/enxenaria-arquitectura/master-universitario-sistemas-aereos-tripulados/20262027/fundamentos-sistemas-aereos-tripulados-18315-17481-2-100422",
+        "course_code_in_pdf": null,
+        "historical_course_code": "P4202101",
+        "course_code_note": "P4202101 vinculado desde la fuente histórica; no figura en este PDF.",
+        "page": 3,
+        "pages": [
+          3
+        ],
+        "section": "Bloque IV"
+      },
+      "historical_sources": [],
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_course_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-rgb-cameras-01",
+          "text": "Identificar el alcance curricular de «Cámaras RGB» y registrar las dudas que requieren material del Campus Virtual."
+        }
+      ],
+      "concept_ids": [
+        "rgb-imaging",
+        "onboard-instrumentation"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "La guía no declara prerrequisitos específicos por Topic.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-rgb-cameras.v0.3.1.mdx",
+      "curriculum_kind": "official_listed_item",
+      "original_curriculum_scope": "Cámaras RGB",
+      "source_pages": [
+        3
+      ],
+      "learning_outcome_ids": [],
+      "related_topic_ids": [
+        "fund-thermal-cameras",
+        "fund-dual-cameras",
+        "fund-camera-gimbal",
+        "fund-camera-ip-protection"
+      ]
+    },
+    {
+      "stable_id": "fund-thermal-cameras",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-04",
+      "title": "Cámaras térmicas y térmicas radiométricas",
+      "order": 16,
+      "source": {
+        "id": "usc-fundamentals-2026-27",
+        "source_type": "official_teaching_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "programme": "Máster Universitario en Sistemas Aéreos non Tripulados",
+        "course": "Fundamentos de sistemas aéreos non tripulados",
+        "academic_year": "2026/2027",
+        "status": "official_current",
+        "validation_status": "official_current",
+        "source_hash": "d37464d16f7684f86ba7ee9a56917e3854e2f2cbcafaf37b3ee59dcc503e7d33",
+        "source_file": "docs/academic-sources/fundamentals-uas/2026-2027/Fundamentos de sistemas aéreos non tripulados _ Universidade de Santiago de Compostela.pdf",
+        "verified_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "url": "https://www.usc.gal/gl/estudos/masteres/enxenaria-arquitectura/master-universitario-sistemas-aereos-tripulados/20262027/fundamentos-sistemas-aereos-tripulados-18315-17481-2-100422",
+        "course_code_in_pdf": null,
+        "historical_course_code": "P4202101",
+        "course_code_note": "P4202101 vinculado desde la fuente histórica; no figura en este PDF.",
+        "page": 3,
+        "pages": [
+          3
+        ],
+        "section": "Bloque IV"
+      },
+      "historical_sources": [],
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_course_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-thermal-cameras-01",
+          "text": "Identificar el alcance curricular de «Cámaras térmicas y térmicas radiométricas» y registrar las dudas que requieren material del Campus Virtual."
+        }
+      ],
+      "concept_ids": [
+        "thermal-imaging",
+        "radiometric-thermal-imaging"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "La guía no declara prerrequisitos específicos por Topic.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-thermal-cameras.v0.3.1.mdx",
+      "curriculum_kind": "official_listed_item",
+      "original_curriculum_scope": "Cámaras térmicas e térmicas radiométricas",
+      "source_pages": [
+        3
+      ],
+      "learning_outcome_ids": [],
+      "related_topic_ids": [
+        "fund-rgb-cameras",
+        "fund-dual-cameras",
+        "fund-camera-gimbal",
+        "fund-camera-ip-protection"
+      ]
+    },
+    {
+      "stable_id": "fund-dual-cameras",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-04",
+      "title": "Cámaras duales",
+      "order": 17,
+      "source": {
+        "id": "usc-fundamentals-2026-27",
+        "source_type": "official_teaching_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "programme": "Máster Universitario en Sistemas Aéreos non Tripulados",
+        "course": "Fundamentos de sistemas aéreos non tripulados",
+        "academic_year": "2026/2027",
+        "status": "official_current",
+        "validation_status": "official_current",
+        "source_hash": "d37464d16f7684f86ba7ee9a56917e3854e2f2cbcafaf37b3ee59dcc503e7d33",
+        "source_file": "docs/academic-sources/fundamentals-uas/2026-2027/Fundamentos de sistemas aéreos non tripulados _ Universidade de Santiago de Compostela.pdf",
+        "verified_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "url": "https://www.usc.gal/gl/estudos/masteres/enxenaria-arquitectura/master-universitario-sistemas-aereos-tripulados/20262027/fundamentos-sistemas-aereos-tripulados-18315-17481-2-100422",
+        "course_code_in_pdf": null,
+        "historical_course_code": "P4202101",
+        "course_code_note": "P4202101 vinculado desde la fuente histórica; no figura en este PDF.",
+        "page": 3,
+        "pages": [
+          3
+        ],
+        "section": "Bloque IV"
+      },
+      "historical_sources": [],
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_course_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-dual-cameras-01",
+          "text": "Identificar el alcance curricular de «Cámaras duales» y registrar las dudas que requieren material del Campus Virtual."
+        }
+      ],
+      "concept_ids": [
+        "dual-imaging"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "La guía no declara prerrequisitos específicos por Topic.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-dual-cameras.v0.3.1.mdx",
+      "curriculum_kind": "official_listed_item",
+      "original_curriculum_scope": "Cámaras duales",
+      "source_pages": [
+        3
+      ],
+      "learning_outcome_ids": [],
+      "related_topic_ids": [
+        "fund-rgb-cameras",
+        "fund-thermal-cameras",
+        "fund-camera-gimbal",
+        "fund-camera-ip-protection"
+      ]
+    },
+    {
+      "stable_id": "fund-camera-gimbal",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-04",
+      "title": "Sistemas integrados cámara-giroestabilizador",
+      "order": 18,
+      "source": {
+        "id": "usc-fundamentals-2026-27",
+        "source_type": "official_teaching_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "programme": "Máster Universitario en Sistemas Aéreos non Tripulados",
+        "course": "Fundamentos de sistemas aéreos non tripulados",
+        "academic_year": "2026/2027",
+        "status": "official_current",
+        "validation_status": "official_current",
+        "source_hash": "d37464d16f7684f86ba7ee9a56917e3854e2f2cbcafaf37b3ee59dcc503e7d33",
+        "source_file": "docs/academic-sources/fundamentals-uas/2026-2027/Fundamentos de sistemas aéreos non tripulados _ Universidade de Santiago de Compostela.pdf",
+        "verified_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "url": "https://www.usc.gal/gl/estudos/masteres/enxenaria-arquitectura/master-universitario-sistemas-aereos-tripulados/20262027/fundamentos-sistemas-aereos-tripulados-18315-17481-2-100422",
+        "course_code_in_pdf": null,
+        "historical_course_code": "P4202101",
+        "course_code_note": "P4202101 vinculado desde la fuente histórica; no figura en este PDF.",
+        "page": 3,
+        "pages": [
+          3
+        ],
+        "section": "Bloque IV"
+      },
+      "historical_sources": [],
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_course_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-camera-gimbal-01",
+          "text": "Identificar el alcance curricular de «Sistemas integrados cámara-giroestabilizador» y registrar las dudas que requieren material del Campus Virtual."
+        }
+      ],
+      "concept_ids": [
+        "gimbal"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "La guía no declara prerrequisitos específicos por Topic.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-camera-gimbal.v0.3.1.mdx",
+      "curriculum_kind": "official_listed_item",
+      "original_curriculum_scope": "Sistemas integrados cámara-xiroestabilizador",
+      "source_pages": [
+        3
+      ],
+      "learning_outcome_ids": [],
+      "related_topic_ids": [
+        "fund-rgb-cameras",
+        "fund-thermal-cameras",
+        "fund-dual-cameras",
+        "fund-camera-ip-protection"
+      ]
+    },
+    {
+      "stable_id": "fund-camera-ip-protection",
+      "course_id": "fundamentals-uas",
+      "block_id": "fundamentals-block-04",
+      "title": "Índices de protección IP",
+      "order": 19,
+      "source": {
+        "id": "usc-fundamentals-2026-27",
+        "source_type": "official_teaching_guide",
+        "institution": "Universidade de Santiago de Compostela",
+        "programme": "Máster Universitario en Sistemas Aéreos non Tripulados",
+        "course": "Fundamentos de sistemas aéreos non tripulados",
+        "academic_year": "2026/2027",
+        "status": "official_current",
+        "validation_status": "official_current",
+        "source_hash": "d37464d16f7684f86ba7ee9a56917e3854e2f2cbcafaf37b3ee59dcc503e7d33",
+        "source_file": "docs/academic-sources/fundamentals-uas/2026-2027/Fundamentos de sistemas aéreos non tripulados _ Universidade de Santiago de Compostela.pdf",
+        "verified_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "url": "https://www.usc.gal/gl/estudos/masteres/enxenaria-arquitectura/master-universitario-sistemas-aereos-tripulados/20262027/fundamentos-sistemas-aereos-tripulados-18315-17481-2-100422",
+        "course_code_in_pdf": null,
+        "historical_course_code": "P4202101",
+        "course_code_note": "P4202101 vinculado desde la fuente histórica; no figura en este PDF.",
+        "page": 3,
+        "pages": [
+          3
+        ],
+        "section": "Bloque IV"
+      },
+      "historical_sources": [],
+      "academic_validation_status": "official-derived",
+      "technical_content_status": "pending_course_material",
+      "objective_kind": "pedagogical_adaptation",
+      "objectives": [
+        {
+          "id": "obj-fund-camera-ip-protection-01",
+          "text": "Identificar el alcance curricular de «Índices de protección IP» y registrar las dudas que requieren material del Campus Virtual."
+        }
+      ],
+      "concept_ids": [
+        "ip-protection"
+      ],
+      "skill_ids": [],
+      "prerequisite_concept_ids": [],
+      "prerequisite_note": "La guía no declara prerrequisitos específicos por Topic.",
+      "content_ref": "content/courses/fundamentals-uas/topics/fund-camera-ip-protection.v0.3.1.mdx",
+      "curriculum_kind": "official_listed_item",
+      "original_curriculum_scope": "Índices de protección IP para cámaras, aeronaves e elementos auxiliares",
+      "source_pages": [
+        3
+      ],
+      "learning_outcome_ids": [],
+      "related_topic_ids": [
+        "fund-rgb-cameras",
+        "fund-thermal-cameras",
+        "fund-dual-cameras",
+        "fund-camera-gimbal"
+      ]
+    }
+  ]
+}
