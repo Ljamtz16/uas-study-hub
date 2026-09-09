@@ -1,5 +1,5 @@
-const CACHE="uas-study-hub-v0.3";
-const ESSENTIAL=["/","/courses","/courses/fundamentals-uas","/knowledge-map","/study/fund-radio-links-intro","/settings","/manifest.webmanifest","/icon.svg","/study/fund-uas-types","/study/fund-radio-spectrum-bands","/study/fund-ground-control-stations","/study/fund-radio-receivers","/study/fund-radio-commercial-selection","/study/fund-antennas","/study/fund-video-telemetry-links","/study/fund-radio-link-safety"];
+const CACHE="uas-study-hub-v0.3.1";
+const ESSENTIAL=["/","/courses","/courses/fundamentals-uas","/knowledge-map","/study/fund-radio-links-intro","/settings","/manifest.webmanifest","/icon.svg","/study/fund-uas-types","/study/fund-radio-spectrum-bands","/study/fund-ground-control-stations","/study/fund-radio-receivers","/study/fund-radio-commercial-selection","/study/fund-antennas","/study/fund-video-telemetry-links","/study/fund-radio-link-safety","/study/fund-autopilot-architecture","/study/fund-autopilot-configuration","/study/fund-propulsion-system","/study/fund-battery-management","/study/fund-endurance-payload","/study/fund-endurance-environment","/study/fund-rgb-cameras","/study/fund-thermal-cameras","/study/fund-dual-cameras","/study/fund-camera-gimbal","/study/fund-camera-ip-protection"];
 async function precache(){
   const cache=await caches.open(CACHE);
   await cache.addAll(ESSENTIAL);
