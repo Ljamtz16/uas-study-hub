@@ -1,0 +1,683 @@
+{
+  "source": {
+    "id": "usc-fundamentals-2026-27",
+    "source_type": "official_teaching_guide",
+    "institution": "Universidade de Santiago de Compostela",
+    "programme": "Máster Universitario en Sistemas Aéreos non Tripulados",
+    "course": "Fundamentos de sistemas aéreos non tripulados",
+    "academic_year": "2026/2027",
+    "status": "official_current",
+    "validation_status": "official_current",
+    "source_hash": "d37464d16f7684f86ba7ee9a56917e3854e2f2cbcafaf37b3ee59dcc503e7d33",
+    "source_file": "docs/academic-sources/fundamentals-uas/2026-2027/Fundamentos de sistemas aéreos non tripulados _ Universidade de Santiago de Compostela.pdf",
+    "verified_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "url": "https://www.usc.gal/gl/estudos/masteres/enxenaria-arquitectura/master-universitario-sistemas-aereos-tripulados/20262027/fundamentos-sistemas-aereos-tripulados-18315-17481-2-100422",
+    "course_code_in_pdf": null,
+    "historical_course_code": "P4202101",
+    "course_code_note": "P4202101 vinculado desde la fuente histórica; no figura en este PDF."
+  },
+  "historical_sources": [
+    {
+      "id": "usc-p4202101-2023-24",
+      "source_type": "academic_guide",
+      "institution": "Universidade de Santiago de Compostela",
+      "course_id": "P4202101",
+      "course": "Fundamentos de Sistemas Aéreos no Tripulados",
+      "academic_year": "2023/2024",
+      "validation_status": "official_historical_reference",
+      "url": "https://www.galiciadrones.es/wp-content/uploads/2023/10/Guias-Docentes-USC_UVIGo-23_24.pdf",
+      "page": 1,
+      "section": "Bloque I",
+      "note": "Copia publicada por Galicia Drones del programa USC. Referencia histórica; no es la guía 2026/27.",
+      "status": "official_historical_reference",
+      "role": "superseded_primary"
+    }
+  ],
+  "course_metadata": {
+    "academicYear": "2026/2027",
+    "ects": 6,
+    "semester": "first",
+    "language": "Spanish",
+    "courseType": "ordinary master's course",
+    "teachingStatus": "active/current",
+    "sourceRef": "usc-fundamentals-2026-27",
+    "pages": [
+      1
+    ],
+    "section": "Información",
+    "status": "official_current",
+    "academic_year": "2026/2027",
+    "language_datasets": [
+      {
+        "pages": [
+          1
+        ],
+        "spanish_percent": 100
+      },
+      {
+        "pages": [
+          8,
+          9
+        ],
+        "groups": {
+          "CLE_01": 99.99,
+          "CLIL_01": 100,
+          "CLIS_01": 100,
+          "TI-ECTS01": 99.99
+        }
+      }
+    ]
+  },
+  "course_purpose": {
+    "original_text": "Esta materia é troncal. Suscitouse un programa eminentemente técnico, pero sen introducir a complexidade matemática ou conceptual que tería no caso de tratarse unha materia para especialistas. O seu obxectivo global é capacitar aos estudantes para a selección, axuste, e configuración de aeronaves comerciais de uso profesional, especialmente no que respecta ao enlace radioeléctrico, o sistema de propulsión e á selección dos compoñentes comerciais para a instrumentación de a bordo. ",
+    "normalized_display_text": "Materia troncal de orientación técnica, sin complejidad de especialista. Prepara para seleccionar, ajustar y configurar aeronaves comerciales profesionales, especialmente radioenlace, propulsión e instrumentación de a bordo.",
+    "sourceRef": "usc-fundamentals-2026-27",
+    "pages": [
+      2
+    ],
+    "section": "Obxectivos da materia",
+    "status": "official_current",
+    "academic_year": "2026/2027"
+  },
+  "general_curriculum": {
+    "original_text": "UAS. Tipos. Configuracións de multirotor e de á fixa. O enlace de radio. Espectro electromagnético. Espectro radioeléctrico. Bandas e frecuencias para UAS. Antenas. Comunicacións. Fraseoloxía. Autopilotos. Estrutura e compoñentes. Tipos de sistemas inerciais e sistemas de posicionamento. Outros sensores. Estrutura de control de voo. Sistemas de propulsión eléctrica. Motores eléctricos. Introdución ao deseño de UAS con propulsión eléctrica. Dimensionamento e simulación. Introdución ao voo de UAS de ala fixa e multirotor. Pilotaxe e voo autónomo. ",
+    "sourceRef": "usc-fundamentals-2026-27",
+    "pages": [
+      2
+    ],
+    "section": "Contido",
+    "status": "official_current",
+    "academic_year": "2026/2027"
+  },
+  "learning_outcomes": [
+    {
+      "id": "LO-FUND-01",
+      "original_text": "Adquirir coñecementos básicos para a formación dos operadores UAS en aspectos relacionados coa aeronave.",
+      "normalized_display_text": "Adquirir conocimientos básicos sobre la aeronave para la formación de operadores UAS.",
+      "display_kind": "Spanish representation of official outcome",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        2
+      ],
+      "section": "Resultados de aprendizaxe",
+      "status": "official_current",
+      "academic_year": "2026/2027"
+    },
+    {
+      "id": "LO-FUND-02",
+      "original_text": "Coñecer o deseño e os sistemas básicos de UAS con propulsión eléctrica e o seu dimensionamento.",
+      "normalized_display_text": "Conocer el diseño, los sistemas básicos y el dimensionamiento de UAS con propulsión eléctrica.",
+      "display_kind": "Spanish representation of official outcome",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        2
+      ],
+      "section": "Resultados de aprendizaxe",
+      "status": "official_current",
+      "academic_year": "2026/2027"
+    },
+    {
+      "id": "LO-FUND-03",
+      "original_text": "Aprende as manobras básicas de voo en sistemas multirotores e de ás fixas.",
+      "normalized_display_text": "Aprender las maniobras básicas de vuelo en multirrotores y ala fija.",
+      "display_kind": "Spanish representation of official outcome",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        2,
+        3
+      ],
+      "section": "Resultados de aprendizaxe",
+      "status": "official_current",
+      "academic_year": "2026/2027"
+    }
+  ],
+  "competencies": [
+    {
+      "id": "CB6",
+      "original_text": "- CB6 - Posuír e comprender coñecementos que proporcionan unha base ou oportunidade para ser orixinais no desenvolvemento e / ou aplicación de ideas, a miúdo nun contexto de investigación.",
+      "normalized_display_text": null,
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        5
+      ],
+      "section": "Competencias",
+      "status": "official_current",
+      "academic_year": "2026/2027",
+      "ambiguity_note": null
+    },
+    {
+      "id": "CB7",
+      "original_text": "- CB7 - Que os estudantes saiban aplicar os coñecementos adquiridos e a súa capacidade para resolver problemas en contornos novos ou pouco coñecidos dentro de contextos máis amplos (ou multidisciplinares) relacionados coa súa área de estudo.",
+      "normalized_display_text": null,
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        5
+      ],
+      "section": "Competencias",
+      "status": "official_current",
+      "academic_year": "2026/2027",
+      "ambiguity_note": null
+    },
+    {
+      "id": "CB10",
+      "original_text": "- CB10 - Que os estudantes teñan as habilidades de aprendizaxe que lles permitan seguir estudando dun xeito que terá que ser en gran parte autodirixido ou autónomo.",
+      "normalized_display_text": null,
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        5
+      ],
+      "section": "Competencias",
+      "status": "official_current",
+      "academic_year": "2026/2027",
+      "ambiguity_note": null
+    },
+    {
+      "id": "CG1",
+      "original_text": "- CG1. Que os estudantes adquiran coñecementos xerais en enxeñaría de sistemas aéreos non tripulados.",
+      "normalized_display_text": null,
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        5
+      ],
+      "section": "Competencias",
+      "status": "official_current",
+      "academic_year": "2026/2027",
+      "ambiguity_note": null
+    },
+    {
+      "id": "CG3",
+      "original_text": "- CG3 - Que os estudantes adquiran a capacidade para analizar as necesidades dunha empresa que non pertenza a dous sistemas aéreos non tripulados e determinar a mellor solución tecnolóxica para a mesma.",
+      "normalized_display_text": null,
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        5
+      ],
+      "section": "Competencias",
+      "status": "official_current",
+      "academic_year": "2026/2027",
+      "ambiguity_note": "El original dice «empresa que non pertenza a dous sistemas aéreos non tripulados». Redacción anómala preservada; significado pendiente de aclaración."
+    },
+    {
+      "id": "CG4",
+      "original_text": "- CG4 - Que os estudantes adquiran os coñecementos necesarios para desenvolver sistemas aéreos non tripulados e planificar operacións específicas, en función das necesidades existentes e aplicar as ferramentas tecnolóxicas existentes.",
+      "normalized_display_text": null,
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        5
+      ],
+      "section": "Competencias",
+      "status": "official_current",
+      "academic_year": "2026/2027",
+      "ambiguity_note": null
+    },
+    {
+      "id": "CG5",
+      "original_text": "- CG5 - Que os estudantes sexan capaces de aplicar, no campo dos sistemas aéreos non tripulados, os principios e metodoloxías de investigación como as buscas bibliográficas, a recollida e análise de datos e a interpretación destes, así como a presentación de conclusións, de forma clara e concisa. e xeito rigoroso.",
+      "normalized_display_text": null,
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        5
+      ],
+      "section": "Competencias",
+      "status": "official_current",
+      "academic_year": "2026/2027",
+      "ambiguity_note": null
+    },
+    {
+      "id": "CE1",
+      "original_text": "- CE1 - Coñecemento sobre os principais sistemas, os instrumentos de a bordo e a estación de control dunha aeronave non tripulada, así como a súa influencia na seguridade.",
+      "normalized_display_text": null,
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        5,
+        6
+      ],
+      "section": "Competencias",
+      "status": "official_current",
+      "academic_year": "2026/2027",
+      "ambiguity_note": null
+    },
+    {
+      "id": "CT6",
+      "original_text": "- CT6 - Capacidade para traballar en equipo.",
+      "normalized_display_text": null,
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        6
+      ],
+      "section": "Competencias",
+      "status": "official_current",
+      "academic_year": "2026/2027",
+      "ambiguity_note": null
+    },
+    {
+      "id": "CT8",
+      "original_text": "- CT8 - Capacidade para analizar e sentarse.",
+      "normalized_display_text": null,
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        6
+      ],
+      "section": "Competencias",
+      "status": "official_current",
+      "academic_year": "2026/2027",
+      "ambiguity_note": "El original dice «Capacidade para analizar e sentarse». No se sustituye por análisis y síntesis."
+    },
+    {
+      "id": "CT9",
+      "original_text": "- CT9 - Capacidade de razoamento crítico e creatividade.",
+      "normalized_display_text": null,
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        6
+      ],
+      "section": "Competencias",
+      "status": "official_current",
+      "academic_year": "2026/2027",
+      "ambiguity_note": null
+    }
+  ],
+  "practices": [
+    {
+      "id": "fund-practice-multirotor-sizing",
+      "type": "simulation",
+      "original_text": "Práctica 1: dimensionamento dun vehículo multirrotor de 4 rotores mediante simulación.",
+      "normalized_display_text": "Dimensionamiento mediante simulación de un multirrotor de cuatro rotores.",
+      "technical_content_status": "pending_course_material",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        4
+      ],
+      "section": "Programa de prácticas",
+      "status": "official_current",
+      "academic_year": "2026/2027"
+    },
+    {
+      "id": "fund-practice-flight",
+      "type": "field_practice",
+      "original_text": "Práctica 2 (de campo): Práctica de voo.",
+      "normalized_display_text": "Práctica de vuelo.",
+      "technical_content_status": "pending_course_material",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        4
+      ],
+      "section": "Programa de prácticas",
+      "status": "official_current",
+      "academic_year": "2026/2027",
+      "location": {
+        "original_text": "xaula de drons da Escola Politécnica Superior de Enxeñaría",
+        "normalized_display_text": "Jaula de drones de la Escola Politécnica Superior de Enxeñaría",
+        "sourceRef": "usc-fundamentals-2026-27",
+        "pages": [
+          6
+        ],
+        "section": "Metodoloxía da ensinanza",
+        "status": "official_current",
+        "academic_year": "2026/2027"
+      }
+    }
+  ],
+  "assessment": {
+    "weights": {
+      "short_question_exam": 20,
+      "practices": 75,
+      "attendance_participation": 5
+    },
+    "passing_threshold": {
+      "operator": ">=",
+      "value": 5,
+      "unit": "points",
+      "denominator": null,
+      "original_text": "A cualificación mínima obtida deberá ser maior ou igual a 5 puntos.",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        7
+      ],
+      "section": "Sistema de avaliación",
+      "status": "official_current",
+      "academic_year": "2026/2027"
+    },
+    "competency_mappings": [
+      {
+        "component": "short_question_exam",
+        "ids": [
+          "CB6",
+          "CB7",
+          "CB10",
+          "CG1",
+          "CG3",
+          "CT8"
+        ],
+        "pages": [
+          6
+        ]
+      },
+      {
+        "component": "practices",
+        "ids": [
+          "CG4",
+          "CG5",
+          "CE1",
+          "CT6",
+          "CT9"
+        ],
+        "pages": [
+          6
+        ]
+      },
+      {
+        "component": "attendance_participation",
+        "ids": [
+          "CT8"
+        ],
+        "pages": [
+          7
+        ]
+      }
+    ],
+    "sourceRef": "usc-fundamentals-2026-27",
+    "pages": [
+      6,
+      7
+    ],
+    "section": "Sistema de avaliación",
+    "status": "official_current",
+    "academic_year": "2026/2027",
+    "independent_of_mastery": true
+  },
+  "workload_datasets": [
+    {
+      "id": "ects-criteria-memories",
+      "tutorials": 3,
+      "expository": 12,
+      "interactive": 30,
+      "declared_total": 45,
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        1
+      ],
+      "section": "Horas ECTS Criterios/Memorias",
+      "status": "official_current",
+      "academic_year": "2026/2027"
+    },
+    {
+      "id": "study-personal-work",
+      "theory": {
+        "contact": 24,
+        "personal": 48
+      },
+      "practice": {
+        "contact": 16,
+        "personal": 52
+      },
+      "tutorials": {
+        "contact": 3,
+        "personal": 4
+      },
+      "assessment": 3,
+      "declared_contact_activity": 46,
+      "declared_personal": 104,
+      "declared_total": 150,
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        7
+      ],
+      "section": "Tempo de estudo e traballo persoal",
+      "status": "official_current",
+      "academic_year": "2026/2027"
+    }
+  ],
+  "bibliography": [
+    {
+      "id": "bib-fund-1",
+      "kind": "basic",
+      "original_text": "Toda a lexislación vixente atópase na web da Axencia Estatal de Seguridade Aérea – Ministerio de Fomento.",
+      "normalized_display_text": "Toda a lexislación vixente atópase na web da Axencia Estatal de Seguridade Aérea – Ministerio de Fomento.",
+      "url": "https://www.seguridadaerea.gob.es/es/ambitos/drones/normativa-europea-de-uas-drones",
+      "ambiguity_note": null,
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        4
+      ],
+      "section": "Bibliografía",
+      "status": "official_current",
+      "academic_year": "2026/2027"
+    },
+    {
+      "id": "bib-fund-2",
+      "kind": "basic",
+      "original_text": "Handbook of Unmanned Aerial Vehicles, Kimon P. Valavanis, George J. Vachtsevanos, Springer. 2015. ISBN: 978-90-481-9707-1",
+      "normalized_display_text": "Handbook of Unmanned Aerial Vehicles, Kimon P. Valavanis, George J. Vachtsevanos, Springer. 2015. ISBN: 978-90-481-9707-1",
+      "url": null,
+      "ambiguity_note": null,
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        4
+      ],
+      "section": "Bibliografía",
+      "status": "official_current",
+      "academic_year": "2026/2027"
+    },
+    {
+      "id": "bib-fund-3",
+      "kind": "basic",
+      "original_text": "Vergouw, Bas; Nagel, Huub; Bondt, Geert; Custers, Bart (2016), Custers, Bart (ed.), \"Drone Technology: Types, Payloads, Applications, Frequency Spectrum Issues and Future Developments\", The Future of Drone Use: Opportunities and Threats from Ethical and Legal Perspectives, Information Technology and Law Series, The Hague: T.M.C. Asser Press, pp. 21–45, doi:10.1007/978-94-6265-132-6_2, ISBN 978-94-6265-132-6",
+      "normalized_display_text": "Vergouw, Bas; Nagel, Huub; Bondt, Geert; Custers, Bart (2016), Custers, Bart (ed.), \"Drone Technology: Types, Payloads, Applications, Frequency Spectrum Issues and Future Developments\", The Future of Drone Use: Opportunities and Threats from Ethical and Legal Perspectives, Information Technology and Law Series, The Hague: T.M.C. Asser Press, pp. 21–45, doi:10.1007/978-94-6265-132-6_2, ISBN 978-94-6265-132-6",
+      "url": null,
+      "ambiguity_note": null,
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        4
+      ],
+      "section": "Bibliografía",
+      "status": "official_current",
+      "academic_year": "2026/2027"
+    },
+    {
+      "id": "bib-fund-4",
+      "kind": "complementary",
+      "original_text": "Practical Spread Spectrum Book IV Charles O. Phillips. 1993",
+      "normalized_display_text": "Practical Spread Spectrum Book IV Charles O. Phillips. 1993",
+      "url": null,
+      "ambiguity_note": null,
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        4
+      ],
+      "section": "Bibliografía",
+      "status": "official_current",
+      "academic_year": "2026/2027"
+    },
+    {
+      "id": "bib-fund-5",
+      "kind": "complementary",
+      "original_text": "Permanent Magnet Brushless DC Motores Drives and Controls – Chang, liang Xia. 2012",
+      "normalized_display_text": "Permanent Magnet Brushless DC Motores Drives and Controls – Chang, liang Xia. 2012",
+      "url": null,
+      "ambiguity_note": "Posible errata bibliográfica de la fuente; sin corregir.",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        4
+      ],
+      "section": "Bibliografía",
+      "status": "official_current",
+      "academic_year": "2026/2027"
+    },
+    {
+      "id": "bib-fund-6",
+      "kind": "complementary",
+      "original_text": "DIY Lithium Batteries: How to Build Your Own Battery – Mica Toll. 2017",
+      "normalized_display_text": "DIY Lithium Batteries: How to Build Your Own Battery – Mica Toll. 2017",
+      "url": null,
+      "ambiguity_note": null,
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        4
+      ],
+      "section": "Bibliografía",
+      "status": "official_current",
+      "academic_year": "2026/2027"
+    },
+    {
+      "id": "bib-fund-7",
+      "kind": "complementary",
+      "original_text": "Introduction to Modern Photogrammetry – Edward M. Mihail. 2001",
+      "normalized_display_text": "Introduction to Modern Photogrammetry – Edward M. Mihail. 2001",
+      "url": null,
+      "ambiguity_note": "Posible errata bibliográfica de la fuente; sin corregir.",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        5
+      ],
+      "section": "Bibliografía",
+      "status": "official_current",
+      "academic_year": "2026/2027"
+    }
+  ],
+  "methodology": {
+    "original_text": "Metodoloxía da ensinanza - Clases teóricas que se poden seguir mediante Teams ou similar. (CB6, CB7, CB10, CG1, CG3, CT8) - Clases prácticas que serán realizadas mediante sistemas TIC. A práctica 2 farase de xeito presencial e o resto pode seguirse mediante Teams ou similar. A práctica 2 realizarase na xaula de drons da Escola Politécnica Superior de Enxeñaría (CG4, CG5, CE1,CT6 y CT9) - Traballos: o alumno deberá realizar un traballo individual relacionado cos contidos da asignatura. Realizarase de forma individual ou en grupos reducidos dependendo do número de persoas matriculadas. - Titorías: o profesor estará dispoñible para a resolución de dúbidas sobre os contidos teóricos e na realización de traballos e prácticas. Os alumnos terán permanentemente dispoñible o correo electrónico, xunto cos medios de comunicación que aporte o campus virtual da Universidade de Santiago. ",
+    "normalized_display_text": "Clases teóricas, prácticas con TIC y práctica presencial en jaula de drones; trabajo individual o en pequeños grupos; tutorías y comunicación por correo y Campus Virtual.",
+    "sourceRef": "usc-fundamentals-2026-27",
+    "pages": [
+      6
+    ],
+    "section": "Metodoloxía da ensinanza",
+    "status": "official_current",
+    "academic_year": "2026/2027"
+  },
+  "content_gap": {
+    "curriculum_status": "official_current",
+    "technical_content_status": "pending_course_material",
+    "original_text": "Non existe bibliografía para os bloques técnicos que se describiron, adaptada ao uso de UAS. O material recomendado atoparase dispoñible no campus virtual da Universidade de Santiago de Compostela e é o resultado do traballo realizado por un grupo de profesores de diferentes aéreas de coñecemento da Universidade de Oviedo. En concreto do Departamento de Enxeñería Eléctrica. ",
+    "next_source": "Material autorizado del Campus Virtual USC",
+    "sourceRef": "usc-fundamentals-2026-27",
+    "pages": [
+      4
+    ],
+    "section": "Bibliografía básica e complementaria",
+    "status": "official_current",
+    "academic_year": "2026/2027"
+  },
+  "study_resources": [
+    {
+      "id": "fund-professor-youtube",
+      "url": "http://www.youtube.com/c/UASUOUniversidaddeOviedo",
+      "recommendation": "Visionado previo de vídeos relacionados con los temas; ampliación de contenidos de clase y Campus Virtual.",
+      "topic_ids": [],
+      "mapping_status": "pending_explicit_mapping",
+      "sourceRef": "usc-fundamentals-2026-27",
+      "pages": [
+        7,
+        8
+      ],
+      "section": "Recomendacións para o estudo da materia",
+      "status": "official_current",
+      "academic_year": "2026/2027"
+    }
+  ],
+  "ambiguities": [
+    {
+      "id": "CG3",
+      "pages": [
+        5
+      ],
+      "original_text": "empresa que non pertenza a dous sistemas aéreos non tripulados",
+      "note": "Redacción semánticamente anómala; preservar literal."
+    },
+    {
+      "id": "CT8",
+      "pages": [
+        6
+      ],
+      "original_text": "Capacidade para analizar e sentarse",
+      "note": "No corregir ni atribuir una interpretación a USC."
+    },
+    {
+      "id": "workload",
+      "pages": [
+        1,
+        7
+      ],
+      "original_text": "45 / 46",
+      "note": "Dos conjuntos de horas diferentes; no reconciliar."
+    },
+    {
+      "id": "language",
+      "pages": [
+        1,
+        8,
+        9
+      ],
+      "original_text": "100% / 99.99%",
+      "note": "Conservar porcentajes por sección."
+    },
+    {
+      "id": "block-iv",
+      "pages": [
+        3
+      ],
+      "original_text": "2 HORA",
+      "note": "Duración numérica 2; singular original conservado."
+    },
+    {
+      "id": "antenna",
+      "pages": [
+        3
+      ],
+      "original_text": "Tipo, instalación e características das antenas)",
+      "note": "Paréntesis original sin apertura."
+    },
+    {
+      "id": "course-code",
+      "pages": [
+        1
+      ],
+      "original_text": "P4202101 no aparece",
+      "note": "Vinculación histórica, no transcripción actual."
+    },
+    {
+      "id": "bibliography",
+      "pages": [
+        4,
+        5
+      ],
+      "original_text": "Motores; Chang, liang Xia; Edward M. Mihail",
+      "note": "Grafías potencialmente incorrectas preservadas sin enmienda."
+    },
+    {
+      "id": "passing",
+      "pages": [
+        7
+      ],
+      "original_text": "maior ou igual a 5 puntos",
+      "note": "No se declara denominador 10."
+    },
+    {
+      "id": "source-footer",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "original_text": "about:blank",
+      "note": "URL oficial recuperada de anotación PDF; no del pie."
+    }
+  ]
+}
